@@ -23,5 +23,5 @@
 
 Você pode ver mais detalhes sobre o desafio além de outras possibilidades de como usar o comando grep aqui: https://guialinux.uniriotec.br/grep/
 
-O mais importante é sempre ter o hábito de buscar soluções, mesmo quando não temos ideia de como resolver. Hábito e técnica de pesqusia são habilidades
+O mais importante é sempre ter o hábito de buscar soluções, mesmo quando não temos ideia de como resolver. Hábito e técnica de pesquisa são habilidades
 importantes de uma pessoa desenvolvedora.
