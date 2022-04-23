@@ -57,7 +57,10 @@ são listas de fotos.
 
 
 '''
+
 5. De volta ao terminal, exiba as primeiras 5 linhas do texto.
+
 6. Agora tente exibir todas as linhas que tem a palavra 'caixa' no texto.
+
 7. Desafio: Exibas todas as linhas que começam com A. Você deve usar o google para resolver esse desafio.
    
