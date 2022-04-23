@@ -10,24 +10,23 @@ Vamos instalar o Node, o Git e o VSCode.
 Você pode optar por outro editor texto diferente do VSCode sem problemas. Mas os exercícios
 e exemplos desse curso serão feitos com VSCode.
 
-##### Links:
+#### Links:
 - VS Code: https://code.visualstudio.com/
-- Git: 
--- MacOS: https://git-scm.com/
--- Windows: https://git-scm.com/download/win
--- Linux: Abra o terminal e use o comando  'sudo apt-get install git'
+- Git: MacOS: https://git-scm.com/ || Windows: https://git-scm.com/download/win || Linux: Abra o terminal e use o comando  'sudo apt-get install git'
 - Node: https://nodejs.org/en/ (Baixar a versão LTS para o seu sistema operacional)
  
 Vamos começar a praticar o terminal? Ele será utlizado para verificar que as instalações deram certo.
 
-##### No MacOS ou Linux:
+#### No MacOS ou Linux:
 - Abra o terminal que já vem com o sistema e utilize os seguintes comandos:
+
 -- 'git --version'
+
 -- 'node --version'
 
 Se as instalações tiverem funcionado corretamente o terminal irá retornar as versões dos programas.
 
-##### No Windows:
+#### No Windows:
 - Abra o programa git bash através do menu iniciar.
 - Utilize os mesmos comandos de terminal do Mac OS mostrados anteriormente.
 
