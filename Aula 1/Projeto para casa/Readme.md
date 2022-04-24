@@ -20,9 +20,8 @@ Vamos começar a praticar o terminal? Ele será utlizado para verificar que as i
 #### No MacOS ou Linux:
 - Abra o terminal que já vem com o sistema e utilize os seguintes comandos:
 
--- 'git --version'
-
--- 'node --version'
+```git --version```
+```node --version```
 
 Se as instalações tiverem funcionado corretamente o terminal irá retornar as versões dos programas.
 
@@ -37,7 +36,7 @@ Se as instalações tiverem funcionado corretamente o terminal irá retornar as 
 4. Usando um editor de texto qualquer copie o conteúdo a seguir, sem as aspas, para o arquivo e salve.
 
 
-'''
+```
 
 Comparar listas com caixas de coisas, ensinar que gerenciar listas
 
@@ -56,7 +55,7 @@ série de fotos. Ou seja, a caixa é uma lista de álbuns, os álbuns
 são listas de fotos.
 
 
-'''
+```
 
 5. De volta ao terminal, exiba as primeiras 5 linhas do texto.
 
