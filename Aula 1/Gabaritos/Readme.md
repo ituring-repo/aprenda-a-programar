@@ -13,13 +13,13 @@
 
 #### Os comandos a seguir resolvem os exercícios
 
-1. **mkdir ITuring** para fazer o diretório ITuring
-2. Para fazer com um único comando você pode usar o &&: **cd ITuring && mkdir Aula1 && cd Aula1**
-3. **touch meu_arquivo.txt**
+1. ```mkdir ITuring``` para fazer o diretório ITuring
+2. Para fazer com um único comando você pode usar o &&: ```cd ITuring && mkdir Aula1 && cd Aula1```
+3. ```touch meu_arquivo.txt```
 4. Basta copiar o texto usando o notepad mesmo e salvar.
-5. **head meu_arquivo.txt**
-6. **grep caixa meu_arquivo.txt**
-7. **grep ^A meu_arquivo.txt**
+5. ```head meu_arquivo.txt```
+6. ```grep caixa meu_arquivo.txt```
+7. ```grep ^A meu_arquivo.txt```
 
 Você pode ver mais detalhes sobre o desafio além de outras possibilidades de como usar o comando grep aqui: https://guialinux.uniriotec.br/grep/
 
