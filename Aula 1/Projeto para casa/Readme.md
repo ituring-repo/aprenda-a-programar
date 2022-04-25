@@ -4,7 +4,7 @@
 - Exercícios de terminal
 
 
-### Instalar o ambiente de desenvolvimento
+### Instalando o ambiente de desenvolvimento
 
 Vamos instalar o Node para executar códigos em JavaScript, o Git pra gente controlar e ver o histórico do que estamos desenvolvendo e o VSCode onde vamos de fato escrever códigos.
 Você pode optar por outro editor texto diferente do VSCode sem problemas, mas os exercícios
