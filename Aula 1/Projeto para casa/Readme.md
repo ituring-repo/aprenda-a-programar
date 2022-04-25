@@ -75,5 +75,5 @@ Se as instalações tiverem funcionado corretamente, o terminal irá retornar as
 
 8. Execute o comando `pwd` no diretório onde se encontra o arquivo `resumo-dia-1.txt`.
 
-9. Copie e envie o resultado do comando `pwd` no formulário solicitado no Discord do curso.
+9. Copie e envie o resultado do comando `pwd` no formulário solicitado no Discord do curso no canal **#💪tarefa-dia-1**.
    
