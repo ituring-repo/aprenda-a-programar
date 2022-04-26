@@ -33,7 +33,7 @@ Se as instalações tiverem funcionado corretamente, o terminal irá retornar as
 1. Utilizando o terminal (no Windows, o próprio "git bash"), navegue para uma localização desejada e crie uma pasta chamada `ituring-aprenda-a-programar`
 2. Navegue para a pasta e crie o diretório com o nome de `dia-1` e navegue para dentro dele (desafio opcional: tente fazer isso com um único comando)
 3. Dentro de `dia-1` crie um arquivo chamado `resumo-dia-1.txt`
-4. Usando um editor de texto qualquer copie o conteúdo a seguir, sem as aspas, para o arquivo e salve.
+4. Usando um editor de texto qualquer copie o conteúdo a seguir para o arquivo e salve.
 
 
 ```
