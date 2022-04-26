@@ -71,7 +71,7 @@ Se as instalações tiverem funcionado corretamente, o terminal irá retornar as
 
 6. Agora tente exibir todas as linhas que tem a palavra 'programação' no texto.
 
-7. Desafio opcional: Exibas todas as linhas que começam com A. Você deve usar o google para resolver esse desafio.
+7. Desafio opcional: exiba todas as linhas que começam com '-'. Em seguida, exiba todas as linhas que não começam com '-'. Você deve pesquisar no google para resolver esse desafio.
 
 8. Execute o comando `pwd` no diretório onde se encontra o arquivo `resumo-dia-1.txt`.
 
