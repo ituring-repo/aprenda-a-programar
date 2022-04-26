@@ -21,12 +21,12 @@ e exercícios. Por isso, lembre-se de colocar um nome relevante e pensar em como
 
 ### Exercício 2: Crie um arquivo README.md resumindo para o que seu repositório serve.
 
-Faça uma boa formatação do arquivo utilizando Markdown e tente subir esse arquivo para o seu repo remoto.
+Faça uma boa formatação do arquivo utilizando Markdown e suba este arquivo para o seu repo remoto.
 Aqui você encontra a documentação do Markdown https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax.
 
 Lembre-se de que "fuçar" e pesquisar é fundamental em programação. Esta é, se não a principal, uma das principais habilidades que buscamos com este curso.
 
-### Envie a tarefa feita no formulário disponibilizado no canal `#tarefa-dia-2` do Discord com o link do seu repositório criado e commitado.
+### Envie a tarefa feita no formulário disponibilizado no canal `#tarefa-dia-2` do Discord com o link do seu repositório criado e comitado.
 
 
 #### HTML Para colar no arquivo index.html do exercício.
