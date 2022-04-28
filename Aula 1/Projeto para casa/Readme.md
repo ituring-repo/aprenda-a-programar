@@ -32,7 +32,7 @@ Se as instalações tiverem funcionado corretamente, o terminal irá retornar as
 ### Exercícios de terminal
 1. Utilizando o terminal (no Windows, o próprio "git bash"), navegue para uma localização desejada e crie uma pasta chamada `ituring-aprenda-a-programar`
 2. Navegue para a pasta e crie o diretório com o nome de `dia-1` e navegue para dentro dele (desafio opcional: tente fazer isso com um único comando)
-3. Dentro de `dia-1` crie um arquivo chamado `resumo-dia-1.txt`
+3. Dentro de `dia-1` crie um arquivo chamado `resumo-dia-1.md`
 4. Usando um editor de texto qualquer copie o conteúdo a seguir para o arquivo e salve.
 
 
@@ -73,7 +73,7 @@ Se as instalações tiverem funcionado corretamente, o terminal irá retornar as
 
 7. Desafio opcional: exiba todas as linhas que começam com '-'. Em seguida, exiba todas as linhas que **não** começam com '-'. Você deve pesquisar no google para resolver esse desafio.
 
-8. Execute o comando `pwd` no diretório onde se encontra o arquivo `resumo-dia-1.txt`.
+8. Execute o comando `pwd` no diretório onde se encontra o arquivo `resumo-dia-1.md`.
 
 9. Copie e envie o resultado do comando `pwd` no formulário solicitado no Discord do curso no canal **#💪tarefa-dia-1**.
    
