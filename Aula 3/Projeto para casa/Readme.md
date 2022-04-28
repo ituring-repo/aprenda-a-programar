@@ -1,4 +1,4 @@
-# Tarefa - Dia 2: Gerando o hábito de programar com o GitHub
+# Tarefa - Dia 3: Aprendendo a programar (parte 1)
 
 ## Exercício 1: verifique as expressões lógicas
 
@@ -29,6 +29,7 @@ Copie essa base para o seu código e escreva um programa que resolve o problema 
 **Dica 1:** para aplicar 20% de impostos, você deve multiplicar por 1.2. Para aplicar 12%, você deve multiplicar por 1.12.
 **Dica 2:** você pode exibir como resposta o nome do produto e o novo valor com os impostos.
 **Dica 3:** você vai precisar criar comandos condicionais que verificam se o produto é internacional ou não. Se for internacional, deve exibir o nome do produto e o valor com os impostos de 20%. Se for nacional, deve exibir o nome do produto e o valor com os impostos de 12%.
+**Dica 4:** lembre-se que para acessar as informações das variáveis do tipo mapa você usa `nomedavariavel["nome"]`, `nomedavariavel["valor"]`, `nomedavariavel["internacional"]`
 
 ### Instruções de envio
 
