@@ -26,13 +26,19 @@ let produtoC = {"nome": sandália, "valor": 120.00, "internacional": false};
 
 Copie essa base para o seu código e escreva um programa que resolve o problema do cliente e exibe as informações dos produtos e o valor aplicado os impostos devidos. Você deve testar o seu código com os 3 produtos.
 
-**Dica 1:** para aplicar 20% de impostos, você deve multiplicar por 1.2. Para aplicar 12%, você deve multiplicar por 1.12.
+**Dica 1:** lembre-se do que falamos no dia 1. Programar é errar e consertar. É SEMPRE experimentando e "futucando". É ser uma pessoa desbravadora, que futuca e vai tentando tudo de quanto é jeito até acertar. Experimente o `console.log()`, execute o código e veja o que aparece na tela. Começa tentando exibir as informações de cada produto. Lembrando que pra executar o código você digita `node nomedoarquivo.js` no terminal.
 
-**Dica 2:** você pode exibir como resposta o nome do produto e o novo valor com os impostos.
+**Dica 2:** lembre-se que para acessar ou alterar as informações das variáveis do tipo mapa você utiliza `nomedavariavel["nome"]`, `nomedavariavel["valor"]`, `nomedavariavel["internacional"]`. Altere as informações e depois tente exibir com `console.log()`. Veja se realmente foram alteradas ao ver o que foi exibido com o `console.log()`.
 
-**Dica 3:** você vai precisar criar comandos condicionais que verificam se o produto é internacional ou não. Se for internacional, deve exibir o nome do produto e o valor com os impostos de 20%. Se for nacional, deve exibir o nome do produto e o valor com os impostos de 12%.
+**Dica 3:** resolver problemas é **sempre** baby-steps (passos de bebê). Não existe nenhuma pessoa programadora do mundo que não siga esse processo. As melhores sempre fazem isso, um passo de cada vez, dividir para conquistar. Pra quem está começando, este método é ainda mais importante! Começa fazendo algo bem simples primeiro. Testa e veja se funcionou. Funcionou? Não funcionou? Deu algum erro? Pesquisa o que foi que deu errado e corrige. Corrigiu? Vai pro próximo passo. E assim em diante.
 
-**Dica 4:** lembre-se que para acessar ou alterar as informações das variáveis do tipo mapa você utiliza `nomedavariavel["nome"]`, `nomedavariavel["valor"]`, `nomedavariavel["internacional"]`.
+**Dica 4:** fique tranquilo(a). A 1ª vez que coloca a mão no código é sempre mais difícil. Tudo mais confuso na cabeça, as coisas estão se materializando, o entendimento, a compreensão e prática é que vai te permitir a evolução. Aos poucos você vai pegando o jeito e depois você verá que tudo fica mais tranquilo e fluido. Como falamos no 1º dia, quando a pessoa aprende a dirigir é o mesmo processo! Tudo mais difícil no início, depois fica natural e rápido.
+
+**Dica 5:** para aplicar 20% de impostos, você deve multiplicar por 1.2. Para aplicar 12%, você deve multiplicar por 1.12.
+
+**Dica 6:** você vai precisar criar comandos condicionais que verificam se o produto é internacional ou não. Se for internacional, deve exibir o nome do produto e o valor com os impostos de 20%. Se for nacional, deve exibir o nome do produto e o valor com os impostos de 12%.
+
+**Dica 7:** lembre-se que para acessar ou alterar as informações das variáveis do tipo mapa você utiliza `nomedavariavel["nome"]`, `nomedavariavel["valor"]`, `nomedavariavel["internacional"]`.
 
 ### Instruções de envio
 
