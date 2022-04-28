@@ -3,7 +3,7 @@
 ## Exercício 1: verifique as expressões lógicas
 
 Avalie as expressões lógicas do arquivo no [neste link](./logica.js) e tente prever se o ```console.log``` resultante será A ou B.
-Você pode rodar o código para testar se sua resposta está correta. Confira se você acertou comparando com o nosso [gabarito](../Gabaritos)
+Você pode rodar o código para testar se sua resposta está correta. Confira se você acertou comparando com o nosso [gabarito](../Gabaritos).
 
 **Não é preciso enviar a resposta deste exercício**
 
