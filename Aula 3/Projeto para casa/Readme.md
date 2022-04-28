@@ -32,7 +32,7 @@ Copie essa base para o seu código e escreva um programa que resolve o problema 
 
 **Dica 3:** você vai precisar criar comandos condicionais que verificam se o produto é internacional ou não. Se for internacional, deve exibir o nome do produto e o valor com os impostos de 20%. Se for nacional, deve exibir o nome do produto e o valor com os impostos de 12%.
 
-**Dica 4:** lembre-se que para acessar as informações das variáveis do tipo mapa você usa `nomedavariavel["nome"]`, `nomedavariavel["valor"]`, `nomedavariavel["internacional"]`.
+**Dica 4:** lembre-se que para acessar ou alterar as informações das variáveis do tipo mapa você utiliza `nomedavariavel["nome"]`, `nomedavariavel["valor"]`, `nomedavariavel["internacional"]`.
 
 ### Instruções de envio
 
