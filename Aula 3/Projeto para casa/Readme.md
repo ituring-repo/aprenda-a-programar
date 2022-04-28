@@ -36,4 +36,4 @@ Copie essa base para o seu código e escreva um programa que resolve o problema 
 
 ### Instruções de envio
 
-Ao terminar o exercício 2, não esqueça de comitar e fazer o push do código no seu repositório. Em seguida, **envie o link do seu repositório no formulário indicado do canal #💪tarefa-dia-3.
+Ao terminar o exercício 2, não esqueça de comitar e fazer o push do código no seu repositório. Em seguida, **envie o link do seu repositório no formulário indicado do canal #💪tarefa-dia-3**.
