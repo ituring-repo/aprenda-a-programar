@@ -19,9 +19,9 @@ Uma vez aplicado o imposto, o programa imprime na tela o valor total do produto.
 
 Base de dados que o cliente passou para você:
 ```
-let produtoA = {"nome": camiseta, "valor": 100.00, "internacional": true};
-let produtoB = {"nome": perfume, "valor": 200.00, "internacional": true};
-let produtoC = {"nome": sandália, "valor": 120.00, "internacional": false};
+let produtoA = {"nome": "camiseta", "valor": 100.00, "internacional": true};
+let produtoB = {"nome": "perfume", "valor": 200.00, "internacional": true};
+let produtoC = {"nome": "sandália", "valor": 120.00, "internacional": false};
 ```
 
 Copie essa base para o seu código e escreva um programa que resolve o problema do cliente e exibe as informações dos produtos e o valor aplicado os impostos devidos. Você deve testar o seu código com os 3 produtos.
