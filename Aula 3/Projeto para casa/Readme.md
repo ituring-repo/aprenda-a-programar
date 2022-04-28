@@ -1,6 +1,6 @@
 # Tarefa - Dia 2: Gerando o hábito de programar com o GitHub
 
-# Exercício 1: verifique as expressões lógicas
+## Exercício 1: verifique as expressões lógicas
 
 Avalie as expressões lógicas do arquivo no [neste link](./logica.js) e tente prever se o ```console.log``` resultante será A ou B.
 Você pode rodar o código para testar se sua resposta está correta. Confira se você acertou comparando com o nosso [gabarito](../Gabaritos)
@@ -18,15 +18,17 @@ se ele é nacional ou internacional e aplica 20% de impostos caso seja de outro 
 Uma vez aplicado o imposto, o programa imprime na tela o valor total do produto.
 
 Base de dados que o cliente passou para você:
+```
 let produtoA = {"nome": camiseta, "valor": 100.00, "internacional": true};
 let produtoB = {"nome": perfume, "valor": 200.00, "internacional": true};
 let produtoC = {"nome": sandália, "valor": 120.00, "internacional": false};
+```
 
 Copie essa base para o seu código e escreva um programa que resolve o problema do cliente e exibe as informações dos produtos e o valor aplicado os impostos devidos. Você deve testar o seu código com os 3 produtos.
 
-Dica 1: para aplicar 20% de impostos, você deve multiplicar por 1.2. Para aplicar 12%, você deve multiplicar por 1.12.
-Dica 2: você pode exibir como resposta o nome do produto e o novo valor com os impostos.
-Dica 3: você vai precisar criar comandos condicionais que verificam se o produto é internacional ou não. Se for internacional, deve exibir o nome do produto e o valor com os impostos de 20%. Se for nacional, deve exibir o nome do produto e o valor com os impostos de 12%.
+**Dica 1:** para aplicar 20% de impostos, você deve multiplicar por 1.2. Para aplicar 12%, você deve multiplicar por 1.12.
+**Dica 2:** você pode exibir como resposta o nome do produto e o novo valor com os impostos.
+**Dica 3:** você vai precisar criar comandos condicionais que verificam se o produto é internacional ou não. Se for internacional, deve exibir o nome do produto e o valor com os impostos de 20%. Se for nacional, deve exibir o nome do produto e o valor com os impostos de 12%.
 
 ### Instruções de envio
 
