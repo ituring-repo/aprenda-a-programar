@@ -23,7 +23,7 @@ let age1 = 13
 let age2 = 18
 let age3 = 20
 
-// chame a função legalAgeOrNot que você construiu logo abaixo deste comentário para cada uma das idades em `age1`, `age2`, `age3`.
+// chame a função legalAgeOrNot que você construiu logo abaixo deste comentário para cada uma das idades em age1, age2, age3.
 ```
  Por fim, faça o commit em sua máquina local e depois suba a solução para o seu repositório no GitHub. Envie a solução no formulário disponibilizado no canal **#💪tarefa-dia-4**.
 
