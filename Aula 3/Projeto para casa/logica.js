@@ -1,68 +1,68 @@
-//Análise os pedaços de código a seguir e tente prever qual será o console.log resultante, A ou B.
-//Você pode rodar os código para verificar suas respostas.
+// Analise os 10 comandos 'if' a seguir e tente prever o que será exibido na tela. Se será exibido a letra A, ou se será exibido a letra B.
+// Fique à vontade de rodar o código para verificar se suas respostas estão corretas. 
 
-let a = 10
-let b = true
-let c = []
-let d = [1,2,3,4]
-let e = "Nome"
+let variavel1 = 10
+let variavel2 = true
+let variavel3 = []
+let variavel4 = [1,2,3,4]
+let variavel5 = "Nome"
 
 //1
-if (a == 10) {
+if (variavel1 == 10) {
     console.log("A");
 } else {
     console.log("B");
 }
 //2
-if (a > 10) {
+if (variavel1 > 10) {
     console.log("A");
 } else {
     console.log("B");
 }
 //3
-if (a >= 10) {
+if (variavel1 >= 10) {
     console.log("A");
 } else {
     console.log("B");
 }
 //4
-if (b == true) {
+if (variavel2 == true) {
     console.log("A");
 } else {
     console.log("B");
 }
 //5
-if (b) {
+if (variavel2) {
     console.log("A");
 } else {
     console.log("B");
 }
 //6
-if (c) {
+if (variavel3) {
     console.log("A");
 } else {
     console.log("B");
 }
 //7
-if (d) {
+if (variavel4) {
     console.log("A");
 } else {
     console.log("B");
 }
 //8
-if (d[0] == 1) {
+if (variavel4[0] == 1) {
     console.log("A");
 } else {
     console.log("B");
 }
 //9
-if (d[1] == 1) {
+if (variavel4[1] == 1) {
     console.log("A");
 } else {
     console.log("B");
 }
 //10
-if (typeof(e) == 'string') {
+if (typeof(variavel5) == 'string') {
     console.log("A");
 } else {
     console.log("B");
