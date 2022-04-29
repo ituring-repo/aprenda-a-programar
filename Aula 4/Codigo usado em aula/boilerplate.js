@@ -68,7 +68,16 @@ podeEntrar(pessoaA.idade, pessoaA.temIngresso)
 podeEntrar(pessoaB.idade, pessoaB.temIngresso)
 podeEntrar(pessoaC.idade, pessoaC.temIngresso)
 
+//Podemos chamar funções dentro de funções
+const funcA = () => {
+    console.log("Eu sou a func B")
+}
 
+const funcB = () => {
+    console.log("eu sou a func B")
+    funcA()
+    
+}
 
 //ITERAÇÃO
 //DADOS QUE VAMOS USAR
