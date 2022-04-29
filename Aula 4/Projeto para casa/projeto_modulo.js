@@ -6,7 +6,7 @@ let dados = fs.readFileSync('dados.txt', 'utf-8');
 //Esse conosole.log nos mostra como os arquivos foram lido.
 console.log(dados);
 
-//Sabendo que cada aluno está em um alinha do texto, podemos usar o split a seguir 
+//Sabendo que cada aluno está em uma linha do texto, podemos usar o split a seguir 
 //para obter uma lista de alunos. 
 let _dados = dados.split("\n");
 //checamos nossa lista
