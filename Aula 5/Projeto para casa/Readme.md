@@ -11,3 +11,5 @@ Encorajamos que estudem o arquivo HTML e a função pegarValores que foi dada no
 Não se preocupe com entender tudo! É o início das suas investigações, é normal que fiquem dúvidas.
 
 Segue um print da tela com os enunciados.
+
+![print da tela dos exerícios](print.png)
