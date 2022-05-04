@@ -12,7 +12,7 @@ Não se preocupe com entender tudo! É o início das suas investigações, é no
 
 ### Instruções de envio
 
-Faça o commit em sua máquina local e depois suba a solução para o seu repositório no GitHub. Envie a solução no formulário disponibilizado no canal **#💪tarefa-dia-5**. Caso não esteja conseguindo utilizar o GitHub, envie a solução para o Google Drive ou qualquer outra plataforma e disponibilize o link no formulário (não esqueça de tornar o arquivo público no seu Google Drive).
+Faça o commit em sua máquina local e depois suba a solução para o seu repositório no GitHub. Envie a solução no formulário disponibilizado no canal **#💪tarefa-dia-6**. Caso não esteja conseguindo utilizar o GitHub, envie a solução para o Google Drive ou qualquer outra plataforma e disponibilize o link no formulário (não esqueça de tornar o arquivo público no seu Google Drive).
 
 Segue um print da tela com os enunciados.
 
