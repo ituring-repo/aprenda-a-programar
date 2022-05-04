@@ -1,21 +1,22 @@
 
-function calculoIMC(peso, altura) {
+const calculoIMC = (peso, altura) => {
     //insira sua lógica aqui do ex. 1 aqui.
     
 
 }
 
-function resultadoIMC(indiceIMC) {
-    //insira sua lógica do ex.2 aqui.
-    //dica, lembre-se que quando queremos duas condições simultaneas, usamos o &&
-    //conforme vimos em aula, caso a pessoa precise estar 
-    //acima de um imc E abaixo de outro, podemos fazer algo como 
-    // if (x > 5 && x < 10)
+const resultadoIMC = (indiceIMC) => {
+    // insira sua lógica do ex.2 aqui.
+    // dica, lembre-se que quando queremos que duas condições sejam verdadeiras, usamos o operador &&
+    // neste caso, conforme vimos em aula, caso a pessoa precise estar 
+    // acima de um imc E abaixo de outro, podemos fazer algo como 
+    // if (x > 5 && x < 10) {
+    // }
 
-    // não esqueça de retornar o texto da faixa.
+    // não esqueça de retornar o texto da faixa do IMC.
 }
 
-function mostrarResultadoIMC() {
+const mostrarResultadoIMC = () => {
     let peso = Number(document.getElementById("peso").value)
     let altura = Number(document.getElementById("altura").value)
 
