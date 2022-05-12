@@ -1,0 +1,20 @@
+
+/*explicar a diferença entre id e classe*/
+#paragrafo {
+    font-size: 40px;
+    font-family: 'Courier New';
+    text-align: right;
+}
+
+.cabecalho {
+    font-family: 'Arial';
+    border: 5px solid blueviolet;
+    padding: 20px;
+    margin: 100px;
+    text-align: center;   
+}
+
+#image_joystick {
+    width: 100px;
+    height: 100px;
+}

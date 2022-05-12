@@ -1,0 +1,32 @@
+
+.paragrafos {
+    font-size: 20px;
+    border-color: red;
+    border: 5px solid blueviolet;
+}
+
+#paragrafo1 {
+    font-family: "Arial";
+    color:coral;
+}
+
+#paragrafo2 {
+    font-family: "Times New Romam";
+    color:rgb(53, 82, 198);
+}
+
+.despedida {
+    font-size: 10px;
+    color: red;
+    
+}
+
+.imagem {
+    width: 150px;
+    height: 200px;
+    border: 5px solid blueviolet;
+}
+
+.botoes {
+    border: 5px solid blueviolet;
+}
