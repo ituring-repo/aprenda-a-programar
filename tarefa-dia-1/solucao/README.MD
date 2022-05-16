@@ -1,5 +1,7 @@
 # Gabarito dos exercícios da tarefa do Dia 1: Primeiros passos e modo de pensar
 
+Recomendamos muito que só veja a solução a seguir depois de ter executado todos os passos da tarefa do dia 1.
+
 #### Exercícios
 
 1. Utilizando o terminal (no Windows, o próprio "git bash"), navegue para uma localização desejada e crie uma pasta chamada `ituring-aprenda-a-programar`
@@ -21,7 +23,6 @@
 6. `grep programação resumo-dia-1.md`
 7. `grep ^- resumo-dia-1.md` e `grep ^[^-] resumo-dia-1.md`
 
-Você pode ver mais detalhes sobre o desafio além de outras possibilidades de como usar o comando grep aqui: https://guialinux.uniriotec.br/grep/
+Você pode ver mais detalhes sobre o desafio além de outras possibilidades de como usar o comando grep aqui: https://guialinux.uniriotec.br/grep/.
 
-O mais importante é sempre ter o hábito de buscar soluções, mesmo quando não temos ideia de como resolver. Hábito e técnica de pesquisa são habilidades
-importantes de uma pessoa desenvolvedora.
+O mais importante é sempre ter o hábito de buscar soluções, mesmo quando não temos ideia de como resolver. Hábito e técnica de pesquisa são habilidades extremamente importantes de uma pessoa programadora. Muito mais do que lembrar comandos de có.
