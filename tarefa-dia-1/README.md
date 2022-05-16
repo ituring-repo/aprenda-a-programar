@@ -114,13 +114,13 @@ Antes de começar, relembre os comandos de terminal assistindo a gravação da a
 - `mkdir <nomedodiretório>` (**m**a**k**e **dir**ectory): cria um novo diretório no diretório corrente
 ```
 
-5. De volta ao terminal, exiba as primeiras 5 linhas do texto (dica: o comando `head` exibe mais do que as primeiras 5 linhas do texto. Pesquise no Google "comando head" e veja como mostrar uma quantidade de linhas específica).
+1. De volta ao terminal, exiba as primeiras 5 linhas do texto (dica: o comando `head` exibe mais do que as primeiras 5 linhas do texto. Pesquise no Google "comando head" e veja como mostrar uma quantidade de linhas específica).
 
-6. Agora tente exibir todas as linhas que tem a palavra 'programação' no texto.
+1. Agora tente exibir todas as linhas que tem a palavra 'programação' no texto.
 
-7. Desafio opcional: exiba todas as linhas que começam com '-'. Em seguida, exiba todas as linhas que **não** começam com '-'. Pesquise no google sobre o comando `grep` para conseguir resolver esse desafio.
+1. Desafio opcional: exiba todas as linhas que começam com '-'. Em seguida, exiba todas as linhas que **não** começam com '-'. Pesquise no google sobre o comando `grep` para conseguir resolver esse desafio.
 
-8. Execute o comando `pwd` no diretório onde se encontra o arquivo `resumo-dia-1.md`.
+1. Execute o comando `pwd` no diretório onde se encontra o arquivo `resumo-dia-1.md`.
 
 Parabéns! Você já sabe manusear o terminal e executar comandos nele. O terminal é a base de toda pessoa que programa computadores. Nele você pode executar desde um pequeno código a até configurar um sistema super complexo na nuvem. Continue pesquisando por mais comandos no Google e "brinque" de criar e remover pastas (comando `rm`), copiar arquivos (comando `cp`), mover arquivos (comando `mv`), etc.
 
