@@ -38,7 +38,7 @@ Agora vamos criar o seu 1º repositório remoto no GitHub. Você utilizará esse
 1. Em seguida, preencha o nome do repositório em "Repository name" e deixe uma descrição caso queira.
 1. Mantenha a marcação "Public", caso contrário não vamos conseguir ver seu repositório.
 1. Em seguida, clique em "Create repository".
-1. Assim que criar, você verá um link na tela começando com `https://github.com/...` e terminando com `.git`. Abra o seu terminal ('git bash' se estiver no Windows) e clone o repositório para o local que desejar (recomendamos no Desktop ou Área de Trabalho). Para isso, execute o comando `git clone link_que_você_recebeu_quando_criou_o_repo` no terminal.
+1. Assim que criar, você verá um link na tela começando com `https://github.com/...` e terminando com `.git`. Abra o seu terminal ('git bash' se estiver no Windows) e clone o repositório para o local que desejar (recomendamos no Desktop ou Área de Trabalho). Para isso, execute o comando `git clone link_que_você_recebeu_quando_criou_o_repo` no terminal (se perguntarem a senha, você pode colocar o token que você criou no passo 1!)
 1. Ainda no terminal, confira se deu tudo certo e se apareceu uma pasta no local que você clonou o repositório. Esta pasta tem uma conexão com o repositório remoto! :)
 1. Agora na tarefa do dia 1, você criou uma pasta com o nome `ituring-aprenda-a-programar`, certo? Entre nessa pasta navegando pela interface mesmo (sem ser pelo terminal), copie a pasta `tarefa-dia-1` e cole dentro da pasta `aprenda-a-programar` (ou o nome que você deu) que você acabou de clonar do seu repositório remoto.
 1. Utilizando o comando `git status`, a pasta deve aparecer como modificada/criada, assim como o arquivo dentro dela. Lembre-se, todos os comandos você tem que executar dentro da pasta `aprenda-a-programar` (ou o nome que você deu). Se executar o comando fora da pasta, não vai funcionar.
@@ -63,16 +63,16 @@ Agora vamos criar o seu 1º repositório remoto no GitHub. Você utilizará esse
 1. Faça o staging dele e da pasta com `git add *` ou `git add tarefa-dia-2`.
 1. Agora faça o commit com `git commit -m "Mensagem de commit apropriada"`. Novamente, lembre-se de usar uma mensagem sucinta e relevante que deixe clara a alteração que você fez.
 1. Agora, cheque o repositório remoto no seu perfil do github.com e veja que os arquivos e as novas pastas ainda **não** estão lá. Vamos subir nossas alterações do local para o remoto.
-1. Para isso, execute o comando `git push` no terminal. Lembre-se, todos os comandos você tem que fazer dentro da pasta. Se executar o comando fora da pasta, não vai funcionar.
+1. Para isso, execute o comando `git push` no terminal  (se perguntarem a senha, você pode colocar o token que você criou no passo 1!). Lembre-se, todos os comandos você tem que fazer dentro da pasta. Se executar o comando fora da pasta, não vai funcionar.
 1. Pronto. Agora veja que os arquivos estão corretamente no seu repositório remoto! :D
 
 Parabéns por ter chegado até aqui! Agora vamos para o último passo da tarefa. Este é opcional. Se não quiser fazer, pode ir para o "Enviando a sua tarefa no nosso Discord".
 
 ## Passo 3 (Opcional): Criando um arquivo README.md resumindo para o que seu repositório serve
 
-Crie o arquivo `README.md` no seu repositório local na pasta `aprenda-a-programar` (ou o nome que você deu pra ela). Aproveite para descrever neste arquivo pra que serve o seu repositório! Faça uma boa formatação do arquivo utilizando Markdown e suba este arquivo para o seu repositório remoto.
+Crie o arquivo `README.md` no seu repositório local na pasta `aprenda-a-programar` (ou o nome que você deu pra ela). Aproveite para descrever neste arquivo pra que serve o seu repositório! Faça uma boa formatação do arquivo utilizando Markdown e suba este arquivo para o seu repositório remoto. [Aqui](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) você encontra a documentação de como utilizar o Markdown.
 
-Aqui você encontra a documentação do Markdown https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax.
+Faça o commit e depois suba o seu novo arquivo para o repositório remoto.
 
 Lembre-se de que "fuçar" e pesquisar é fundamental em programação. Esta é, se não a principal, uma das principais habilidades que buscamos com este curso.
 
