@@ -3,7 +3,7 @@
 Na tarefa do dia 2, faremos o seguinte:
 - **Passo 1:** Configurando sua conta no GitHub e obtendo o token de acesso
 - **Passo 2:** Criando o repositório remoto `aprenda-a-programar`
-- **Passo 3:** Criando um arquivo README.md resumindo para o que seu repositório serve
+- **Passo 3 (Opcional):** Criando um arquivo README.md resumindo para o que seu repositório serve
 
 ## Passo 1: Configurando sua conta no GitHub e obtendo o token de acesso
 
