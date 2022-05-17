@@ -3,7 +3,7 @@
 Na tarefa do dia 2, faremos o seguinte:
 - **Passo 1:** Configurando sua conta no GitHub e obtendo o token de acesso
 - **Passo 2:** Criando o repositório remoto `aprenda-a-programar`
-- **Passo 3:** Criando um arquivo README.md resumindo para o que seu repositório serve
+- **Passo 3 (Opcional):** Criando um arquivo README.md resumindo para o que seu repositório serve
 
 ## Passo 1: Configurando sua conta no GitHub e obtendo o token de acesso
 
@@ -66,7 +66,7 @@ Agora vamos criar o seu 1º repositório remoto no GitHub. Você utilizará esse
 1. Para isso, execute o comando `git push` no terminal. Lembre-se, todos os comandos você tem que fazer dentro da pasta. Se executar o comando fora da pasta, não vai funcionar.
 1. Pronto. Agora veja que os arquivos estão corretamente no seu repositório remoto! :D
 
-Parabéns por ter chegado até aqui! Agora vamos para o último passo da tarefa.
+Parabéns por ter chegado até aqui! Agora vamos para o último passo da tarefa. Este é opcional. Se não quiser fazer, pode ir para o "Enviando a sua tarefa no nosso Discord".
 
 ## Passo 3 (Opcional): Criando um arquivo README.md resumindo para o que seu repositório serve
 
