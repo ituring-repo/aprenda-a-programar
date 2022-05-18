@@ -45,7 +45,7 @@ Este é o processo de programar. Comitar o código é parte integral do processo
 ## Passo 2: Explorando comandos condicionais
 
 Agora que você praticou declaração de variáveis, atribuição de valores às variáveis e o uso do comando `console.log()`, vamos explorar os comandos condicionais. Mas antes de condificar comandos condicionais, vamos fazer o seguinte:
-1. Copie [este código](/condicoes.js) e cole no seu arquivo `pratica-2.js`. Em seguida, clique em salvar.
+1. Copie [este código](condicoes.js) e cole no seu arquivo `pratica-2.js`. Em seguida, clique em salvar.
 1. Agora analise os seguintes comandos `if` do código e coloque nos comentários que estão dentro do código:
 > `// Escreva depois dos ':' se vai entrar no 'if' ou no 'else' ('if' se entrar no 'if' e 'else' se entrar no 'else'): `
 se você acha que o computador vai entrar dentro do `if` (ou seja, a condição será verdadeira) ou dentro do `else` (ou seja, a condição será falsa).
@@ -60,7 +60,7 @@ O matemático e cientista da computação Alan Turing estava decifrando um dos c
 
 Sua missão será escrever um programa que ao receber esse código, informe para Alan Turing se eles vão conseguir derrotar os nazistas ou não. Para isso, ele deixou um arquivo com o código imenso. Sua missão será armazenar esse código em uma variável, verificar se essa variável tem mais ou menos que 121333 caracteres e a partir dessa verificação, determinar se eles vão vencer os nazistas ou não. Vamos começar? Se quiser fazer sem o nosso passo-a-passo abaixo, apenas garanta que está seguindo as instruções da parte 1 e da parte 4 e 5.
 
-1. Pegue o código que Alan Turing nos enviou [aqui](/alanturingcode.js) e armazene esse valor em uma variável, tudo no arquivo `pratica-3.js`. Sim, é um valor muuuito grande, mas não tem problema, pode armazenar na variável que vai funcionar.
+1. Pegue o código que Alan Turing nos enviou [aqui](alanturingcode.js) e armazene esse valor em uma variável, tudo no arquivo `pratica-3.js`. Sim, é um valor muuuito grande, mas não tem problema, pode armazenar na variável que vai funcionar.
 1. Agora pesquise no Google "verificar tamanho da string em javascript" e descubra como saber o tamanho de uma string em JavaScript.
 1. Descobriu? Utilize esse método no seu código e armazene o valor contabilizado em uma nova variável (pense em um bom nome para essa nova variável)
 1. Agora verifique se esse valor é maior ou menor que 6110. Se for maior você deve exibir na tela `Perdão, Alan Turing. Vocês não conseguirão derrotar os nazistas. :'(`. Se for menor (ou igual?), você deve exibir `Maravilha! O código tem menos ou é igual a 6111 caracteres! Mãos à obra! Decifrem o código o quanto antes que vocês vão conseguir derrotá-los! :D`.
