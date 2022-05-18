@@ -72,7 +72,8 @@ Antes de começar, relembre os comandos de terminal assistindo a gravação da a
 1. Dentro de `tarefa-dia-1`, crie um arquivo chamado `resumo-dia-1.md` no terminal (obs: nada de criar o arquivo com o mouse, viu? haha depois você verá que assim é bem mais rápido que pelo mouse).
 1. Pausa para dica 1: pressione a seta pra cima e você poderá pegar os comandos anteriores que você digitou.
 1. Pausa para dica 2: quando você começar digitar o nome de uma pasta em um comando (por exemplo, `cd nomedapasta`), pressione 'tab' que o nome da pasta é preenchido automaticamente!
-1. Continuando... usando um editor de texto qualquer, copie o conteúdo a seguir e cole no arquivo `resumo-dia-1.md`. Em seguida salve o arquivo.
+1. Continuando... agora abra o arquivo `resumo-dia-1.md` em um editor de texto (ou seja, no VSCODE).
+1. Em seguida, copie e cole o conteúdo abaixo nesse arquivo no editor de texto. Salve a alteração.
 
 
 ```
@@ -114,13 +115,13 @@ Antes de começar, relembre os comandos de terminal assistindo a gravação da a
 - `mkdir <nomedodiretório>` (**m**a**k**e **dir**ectory): cria um novo diretório no diretório corrente
 ```
 
-8. De volta ao terminal, exiba as primeiras 5 linhas do texto (dica: o comando `head` exibe mais do que as primeiras 5 linhas do texto. Pesquise no Google "comando head" e veja como mostrar uma quantidade de linhas específica).
+9. De volta ao terminal, exiba as primeiras 5 linhas do texto do conteúdo do arquivo `resumo-dia-1.md` (dica: o comando `head` exibe mais do que as primeiras 5 linhas do texto. Pesquise no Google "comando head" e veja como mostrar uma quantidade de linhas específica).
 
-9. Agora tente exibir todas as linhas que tem a palavra 'programação' no texto.
+1. Agora tente exibir todas as linhas que tem a palavra 'programação' no texto.
 
-10. Desafio opcional: exiba todas as linhas que começam com '-'. Em seguida, exiba todas as linhas que **não** começam com '-'. Pesquise no google sobre o comando `grep` para conseguir resolver esse desafio.
+1. Desafio opcional: exiba todas as linhas que começam com '-'. Em seguida, exiba todas as linhas que **não** começam com '-'. Pesquise no google sobre o comando `grep` para conseguir resolver esse desafio.
 
-11. Execute o comando `pwd` no diretório onde se encontra o arquivo `resumo-dia-1.md`.
+1. Execute o comando `pwd` no diretório onde se encontra o arquivo `resumo-dia-1.md`.
 
 Parabéns! Você já sabe manusear o terminal e executar comandos nele. O terminal é a base de toda pessoa que programa computadores. Nele você pode executar desde um pequeno código a até configurar um sistema super complexo na nuvem. Continue pesquisando por mais comandos no Google e "brinque" de criar e remover pastas (comando `rm`), copiar arquivos (comando `cp`), mover arquivos (comando `mv`), etc.
 
