@@ -48,7 +48,8 @@ Agora que você praticou declaração de variáveis, atribuição de valores às
 1. Copie [este código](condicoes.js) e cole no seu arquivo `pratica-2.js`. Em seguida, clique em salvar.
 1. Agora analise os seguintes comandos `if` do código e coloque nos comentários que estão dentro do código:
 > `// Escreva depois dos ':' se vai entrar no 'if' ou no 'else' ('if' se entrar no 'if' e 'else' se entrar no 'else'): `
-se você acha que o computador vai entrar dentro do `if` (ou seja, a condição será verdadeira) ou dentro do `else` (ou seja, a condição será falsa).
+
+Se você acha que o computador vai entrar dentro do `if` (ou seja, a condição será verdadeira) ou dentro do `else` (ou seja, a condição será falsa).
 3. Agora execute o código no terminal (lembre-se, `node nomedoarquivo.js`) e veja se você acertou
 1. Agora execute os comandos do git para comitar o código e subir no seu repo remoto do GitHub
 
