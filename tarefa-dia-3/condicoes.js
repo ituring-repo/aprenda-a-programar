@@ -72,7 +72,7 @@ if (d[0] == 1) {
 if (d[1] == 1) {
     console.log("Verdade! O valor ", d[1], " do elemento do índice 1 da variável 'd' é igual a 1");
 } else {
-    console.log("Verdade! O valor ", d[1], " do elemento do índice 1 da variável 'd' não é igual a 1");
+    console.log("Falso! O valor ", d[1], " do elemento do índice 1 da variável 'd' não é igual a 1");
 }
 
 let e = "Nome"
