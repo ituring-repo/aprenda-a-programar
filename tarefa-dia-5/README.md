@@ -33,4 +33,4 @@ A sua tarefa será desenvolver o código que faz o cálculo do IMC! Vamos lá:
 
 Segue um print da tela com os enunciados.
 
-![print da tela dos exerícios](print.png)
+![print da tela dos exerícios](site.png)
