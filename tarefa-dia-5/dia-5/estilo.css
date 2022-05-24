@@ -1,0 +1,25 @@
+/* Seletores CSS 
+ 1) Selecionar Tags do elemento HTML -> usa o nome da tag (h1)
+ 2) Selecionar um elemento pelo id -> usa o nome do id com # na frente (#nomeDoId)
+ 2) Selecionar um grupo de elementos que possuem uma classe-> usa o nome da classe com . na frente (.nomeDaClasse)
+*/
+
+/* Selecao por tag */
+h1 {
+  color: red;
+}
+
+/* Selecao por id */
+#primeiroTitulo{
+  color: #290e9e;
+}
+
+/* Selecao por classe */
+.titulos {
+  font-family: Arial, Helvetica, sans-serif; /* Boa prática colocar pelo menos uma opçao para a fonte  */
+}
+
+/* Ordem de importancia dos seletores:
+    id >> classe >> tag
+    Vale o que você define por último
+*/
