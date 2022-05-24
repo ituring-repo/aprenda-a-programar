@@ -1,6 +1,6 @@
-# Tarefa - Dia 5: Front-End (Internet e aplicativos - Parte 1)
+# Tarefa Opcional - Dia 5: Front-End (Internet e aplicativos - Parte 1)
 
-Na tarefa do dia 5, faremos um programa em uma página web que calcula o IMC (Índice de Massa Corporal)!
+Na tarefa opcional do dia 5, faremos um programa em uma página web que calcula o IMC (Índice de Massa Corporal)!
 
 ## Antes de começar
 
