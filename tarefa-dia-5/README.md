@@ -6,8 +6,8 @@ Na tarefa do dia 5, faremos um programa em uma página web que calcula o IMC (Í
 
 Antes de começar a programar, vamos organizar mais uma vez a pasta onde você está desenvolvendo as tarefas:
 1. Nela, você criou as pastas `tarefa-dia-1`, `tarefa-dia-2`, `tarefa-dia-3` e `terafa-dia-4`. Agora crie a pasta `tarefa-dia-5` (de preferência, pelo terminal :D).
-1. Agora baixe [este arquivo .zip](https://drive.google.com/file/d/15ctNbKhByDzev0jXT9pzuWymSzhyEKD8/view?usp=sharing) chamado `site-imc`, descompacte o arquivo no seu computador.
-1. A descompactação vai gerar uma pasta chamada `site-imc`. Agora, utilizando a interface de usuário (ou seja, **sem ser** pelo terminal), copie esta pasta e cole na pasta `tarefa-dia-5`.
+1. Agora baixe [este arquivo .zip](https://drive.google.com/file/d/15ctNbKhByDzev0jXT9pzuWymSzhyEKD8/view?usp=sharing) chamado `site-imc` e descompacte-o no seu computador.
+1. A descompactação vai gerar uma pasta chamada `site-imc`. Utilizando a interface de usuário (ou seja, **sem ser** pelo terminal), copie esta pasta e cole na pasta `tarefa-dia-5`.
 1. Agora execute os comandos git (`git pull`->`git status` -> `git add *` -> `git commit -m 'mensagem de commit'` -> `git log` -> `git push`) no terminal para subir essa atualização no seu repositório remoto do GitHub.
 
 Pronto, agora bora programar!
