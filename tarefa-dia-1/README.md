@@ -1,8 +1,9 @@
-# Tarefa - Dia 1: Primeiros passos e modo de pensar
+# Tarefa - Dia 1: Primeiros passos e preparando a caixa de ferramentas
 
 Na tarefa do dia 1, faremos o seguinte:
 - Passo 1: Instalando o ambiente de desenvolvimento e preparando a caixa de ferramentas
 - Passo 2: Praticando os comandos de terminal
+- Passo 3: Criando sua conta no GitHub
 
 
 ## Passo 1: Instalando o ambiente de desenvolvimento e preparando a caixa de ferramentas
@@ -66,9 +67,9 @@ Se as instalações tiverem funcionado corretamente, o terminal irá retornar as
 ### Dominando os comandos de terminal
 
 Antes de começar, relembre os comandos de terminal assistindo a gravação da aula do dia 1 ou pelos slides fornecidos. Deixe eles num lugar visível. Quando não lembrar de algum comando, assista a aula ou dê uma pesquisada no Google (ou vídeos no Youtube)! Ou então peça ajuda no [nosso Discord](https://discord.com/invite/kHS84D2hA4). Vamos lá!
-1. Utilizando o terminal (no Windows, o próprio "git bash"), navegue para uma localização desejada (recomendamos o Desktop ou Área de Trabalho) e crie uma pasta chamada `ituring-aprenda-a-programar`. Esta será a pasta onde você irá construir todos os seus códigos nos próximos dias!
+1. Utilizando o terminal (no Windows, o próprio "git bash"), navegue para uma localização desejada (recomendamos o Desktop ou Área de Trabalho) e crie uma pasta chamada `dia-1-primeiros-passos`.
 1. Confira se a pasta realmente foi criada com um comando que você sabe qual (dica: começa com 'l')
-1. Navegue para a pasta e crie o diretório com o nome de `tarefa-dia-1` e navegue para dentro dele (desafio opcional: tente fazer isso com um único comando. Mostramos isso no dia 1)
+1. Navegue para a pasta e crie o diretório com o nome de `tarefa-dia-1` e navegue para dentro dele
 1. Dentro de `tarefa-dia-1`, crie um arquivo chamado `resumo-dia-1.md` no terminal (obs: nada de criar o arquivo com o mouse, viu? haha depois você verá que assim é bem mais rápido que pelo mouse).
 1. Pausa para dica 1: pressione a seta pra cima e você poderá pegar os comandos anteriores que você digitou.
 1. Pausa para dica 2: quando você começar digitar o nome de uma pasta em um comando (por exemplo, `cd nomedapasta`), pressione 'tab' que o nome da pasta é preenchido automaticamente!
@@ -113,6 +114,10 @@ Antes de começar, relembre os comandos de terminal assistindo a gravação da a
 - `cd ..`: volta para o diretório anterior. Ex: se você está em `/diretorio-pai/diretorio-filho` e executa `cd ..`, o seu diretório corrente passa a ser `/diretorio-pai`
 - `cd ../../../`: volta três diretórios. Você pode fazer `../` quantas vezes quiser. O número de vezes determinará quantos diretórios você vai voltar pra trás
 - `mkdir <nomedodiretório>` (**m**a**k**e **dir**ectory): cria um novo diretório no diretório corrente
+
+## O poder do GitHub para a sua carreira em programação
+- O GitHub é uma ferramenta poderosa para trabalhar em projetos de software, compartilhar o seu portfólio e mostrar para os recrutadores que você programa todos os dias
+- Cada verdinho no GitHub é uma prova de que você programou naquele dia. Por isso, ao utilizar o GitHub, você pode mostrar a todos que você está sempre colocando em prática o que está aprendendo e isso é muito importante para conquistar oportunidades na área.
 ```
 
 9. De volta ao terminal, exiba as primeiras 5 linhas do texto do conteúdo do arquivo `resumo-dia-1.md` (dica: o comando `head` exibe mais do que as primeiras 5 linhas do texto. Pesquise no Google "comando head" e veja como mostrar uma quantidade de linhas específica).
@@ -127,9 +132,43 @@ Parabéns! Você já sabe manusear o terminal e executar comandos nele. O termin
 
 Nos próximos dias, você vai aprender a utilizar o comando `git` e também a executar o código que você escrever em JavaScript com o comando `node`.
 
+## Passo 3: Criando sua conta no GitHub
+
+Para finalizar, vamos criar sua conta no GitHub! e mostrar como obter o token de acesso para que você consiga subir código no seu perfil do GitHub. Então vamos lá!
+
+### Criando sua conta no Github
+
+1. No https://github.com/, clique em "Sign up" e siga os passos de criação de conta.
+1. Na área de recursos que se interessa, pode pular e em seguida selecionar a conta "free"
+1. Pronto! Sua conta está criada. :)
+
+### Obtendo o token de acesso
+
+Para conseguir subir códigos no seu perfil do GitHub, você pode precisar de um token que funciona como uma senha. Fique tranquilo! Na tarefa do dia 2 você entenderá melhor quando você deverá utilizar esse token. Vamos então obter esse token:
+1. Logado na sua conta conta no https://github.com/, clique no seu perfil no canto superior direito da tela (onde tem um círculo com uma setinha para baixo).
+1. Em seguida, clique no penúltimo item, em "Settings".
+1. Depois disso, no menu lateral esquerdo, vá até o último item e clique nele, no "Developer settings".
+1. Agora clique em "Personal access tokens".
+1. Agora clique em "Generate new token".
+1. Em "Note", pode colocar "Token para o curso Aprenda a Programar do ITuring".
+1. Pode selecionar a opção "No expiration" no Expiration.
+1. Em seguida, pode selecionar todos os itens abaixo ("repo", "workflow", "write:packages", "delete:packages", etc).
+1. Por fim, clique em "Generate token".
+1. Pronto! Este será o token que você utilizará como senha para acessar e subir seus códigos no GitHub. **Importante:** guarde-o em algum lugar pra você utilizar na tarefa do dia 2.
+1. Caso você perca o token, basta ir novamente em Seu perfil -> Settings -> Developer settings -> Personal access tokens e gerar um novo token
+
+### Criando o repositório remoto `aprenda-a-programar`
+
+Agora vamos criar o seu 1º repositório remoto no GitHub. Você utilizará esse repositório para colocar todas as soluções das tarefas desenvolvidas no nosso curso. Por isso, lembre-se de colocar um nome relevante e busque sempre deixá-lo organizado.
+
+1. Com sua conta criada no https://github.com/, crie um novo repositório remoto com o nome `aprenda-a-programar` ou outro nome que julgar relevante. Para isso, basta clicar em "Create repository".
+1. Em seguida, preencha o nome do repositório em "Repository name" e deixe uma descrição caso queira.
+1. Mantenha a marcação "Public", caso contrário não vamos conseguir ver seu repositório.
+1. Em seguida, clique em "Create repository".
+
 ## Enviando a sua tarefa no Discord
 
- Para enviar a tarefa, basta executar o comando `history` no terminal, copiar o resultado mostrado e colar no formulário solicitado no [Discord do curso](https://discord.com/invite/kHS84D2hA4) no canal **#💪tarefa-dia-1**.
+Para enviar a tarefa, basta executar o comando `history` no terminal, copiar o resultado mostrado e colar no formulário solicitado no [Discord do curso](https://discord.com/invite/kHS84D2hA4) no canal **#💪tarefa-dia-1**.
 
 O comando `history` lista todos os comandos que você digitou no terminal! Legal, né? :)
    
