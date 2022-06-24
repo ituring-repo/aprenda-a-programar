@@ -22,34 +22,35 @@ Antes de começar, saiba que existem várias formas de realizar essa tarefa, nã
 
 Para conseguir marcar uma tarefa como concluída precisamos saber qual tarefa está sendo clicada, para isso vamos adicionar um id automático em cada tarefa no momento em que ela está sendo criada. Para isso:
 1. Crie uma variável `let idTarefa = 0`para gerar um contador automátio no início do seu arquivo
-2. Toda vez que você criar um item de tarefa, incremente esse idTarefa e use ele como id da sua tarefa criada, na sua função `adicionarTarefa`, vai ficar assim
-   ```
-        idTarefa++;
-        item.id = idTarefa;
-   ```
-Pronto, agora cada <li> criado possui um id
-3.  O próximo passo é criar a função `concluir(itemId)` que recebe o id clicado como parâmetro, encontra o item correspondente no html e adiciona uma classe concluído no texto (<span>). Ao adicionar uma classe no elemento nós podemos forçar esse elemento a mudar de aparência. Colocando isso em prática teríamos algo assim:
-   ```
-        function concluir(itemId) {
+2. Toda vez que você criar um item de tarefa, incremente esse idTarefa e use ele como id da sua tarefa criada, na sua função `adicionarTarefa`, vai ficar assim:
+
+```
+    idTarefa++;
+    item.id = idTarefa;
+```
+Pronto, agora cada elemento `li` criado possui um id.
+1.  O próximo passo é criar a função `concluir(itemId)` que recebe o id clicado como parâmetro, encontra o item correspondente no html e adiciona uma classe concluído no texto (<span>). Ao adicionar uma classe no elemento nós podemos forçar esse elemento a mudar de aparência. Colocando isso em prática teríamos algo assim:
+```
+    function concluir(itemId) {
         const tarefaSelecionada = document.getElementById(itemId);
         tarefaSelecionada.className = "concluida";
-    ```
-}
-4. Adicionar a classe no html foi tranquilo, agora é preciso adicionar o estilo correspondente a classe concluída no arquivo CSS. Adicione o código abaixo para deixar o texto do span de outra cor e com um risco:
-    ```
+    }
+```
+1. Adicionar a classe no html foi tranquilo, agora é preciso adicionar o estilo correspondente a classe concluída no arquivo CSS. Adicione o código abaixo para deixar o texto do span de outra cor e com um risco:
+```
     .concluida span {
         text-decoration: line-through;
         color: #a9a9a9;
-        }
-    ```
+    }
+```
 Note que só queremos que o span sofra a alteração, por isso usamos essa combinação de seletores `classe  tag`.
 5. Agora basta a gente adicionar essa chamada de função em cada item criado, e um jeito fácil de fazer isso é passando a instrução `onclick="concluir(id)"` para o texto da lista assim que ele for criado. Podemos fazer isso no momento que inserimos o conteúdo no item. Vai ficar algo assim:
-    ```
-        item.innerHTML = `
-        <span onclick="concluir(${idTarefa})">${inputTarefa.value}</span>
-        <button class="excluir" onclick="excluir(event)">x</button>
-        `;
-    ```
+```
+    item.innerHTML = `
+    <span onclick="concluir(${idTarefa})">${inputTarefa.value}</span>
+    <button class="excluir" onclick="excluir(event)">x</button>
+    `;
+```
 Note que colocamos o id da tarefa dinamicamente, de forma que cada elemento passe o id correto para a função chamada no clique.
 
 Prontinho, agora é só correr para o abraço!
