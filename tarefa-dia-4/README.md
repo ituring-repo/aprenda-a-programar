@@ -1,6 +1,6 @@
-# Tarefa - Dia 4: Front-end
+# Tarefa Opcional - Dia 4: Front-end
 
-Na tarefa do dia 4, adicionaremos dois comportamentos na lista de tarefas que criamos na aula :
+Na tarefa opcional do dia 4, adicionaremos dois comportamentos na lista de tarefas que criamos na aula :
 - **Passo 1:** Marcar tarefa como concluída quando clicar no texto da tarefa
 - **Passo 2:** Excluir a tarefa quando clicar no botão de fechar ("x")
 
