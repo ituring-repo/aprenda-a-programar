@@ -1,19 +1,23 @@
 # Tarefa - Dia 1: Primeiros passos e preparando a caixa de ferramentas
 
-Na tarefa do dia 1, faremos o seguinte:
-- Passo 1: Instalando o ambiente de desenvolvimento e preparando a caixa de ferramentas
-- Passo 2: Praticando os comandos de terminal
-- Passo 3: Criando sua conta no GitHub
+Saudações, estudante da nossa imersão Aprenda a Programar do ITuring! Esta é a 1ª tarefa do curso. Em cada um dos 3 primeiros dias da nossa imersão, você terá uma tarefa para solucionar ao longo da semana.
+
+Na tarefa do dia 1, teremos as seguintes etapas:
+- [**Etapa 1:**](#etapa-1-instalando-o-ambiente-de-desenvolvimento-e-preparando-a-caixa-de-ferramentas) Instalando o ambiente de desenvolvimento e preparando a caixa de ferramentas
+- [**Etapa 2:**](#etapa-2-praticando-os-comandos-de-terminal) Praticando os comandos de terminal
+- [**Etapa 3:**](#etapa-3-criando-sua-conta-no-github) Criando sua conta no GitHub
 
 
-## Passo 1: Instalando o ambiente de desenvolvimento e preparando a caixa de ferramentas
+## Etapa 1: Instalando o ambiente de desenvolvimento e preparando a caixa de ferramentas
 
 Para preparar o seu ambiente de desenvolvimento, você vai precisar de instalar 3 coisas:
 - o editor de texto VSCODE
 - o programa Terminal e Git
 - o programa Node
 
-O VSCode é onde vamos de fato escrever códigos. O Git vamos usar pra gente controlar e ver o histórico do que estamos desenvolvendo. Por fim, o Node vamos utilizar para executar os códigos que vamos escrever em JavaScript no dia 3 e 4.
+O VSCode é onde vamos de fato escrever códigos. Toda e qualquer pessoa que trabalha com desenvolvimento de software no mundo escreve códigos usando um editor de texto.
+
+O Git vamos usar para controlar e ver o histórico do que estamos desenvolvendo. Por fim, o Node vamos utilizar para executar os códigos que vamos escrever em JavaScript nos dias 2, 3 e 4.
 
 Você pode optar por outro editor texto diferente do VSCode sem problemas, mas os exercícios e exemplos desse curso serão feitos com VSCode.
 
@@ -25,9 +29,9 @@ Para instalar o VSCODE, basta entrar [aqui](https://code.visualstudio.com/) e se
 
 ### Instalando o terminal e o Git no seu computador
 
-Como vimos no 1º dia, o terminal é onde a gente consegue interagir com o sistema operacional por meio de **comandos de texto**. Estamos acostumados a interagir com o sistema operacional (Windows, MacOS, etc) por meio da interface, onde manipulamos janelas, entramos em programas "clicando 2 vezes" com o mouse, navegamos por pastas, etc. Já a outra forma de interagir com o SO é por meio de comandos de texto. No terminal nós fazemos isso. Nós digitamos textos para navegar em pastas, abrir e executar arquivos, configurar ferramentas, etc.
+Como vimos no 1º dia, o terminal é onde a gente consegue interagir com o sistema operacional por meio de **comandos de texto**. Estamos acostumados a interagir com o sistema operacional (Windows, MacOS, etc) por meio da interface, onde manipulamos janelas, entramos em programas "clicando 2 vezes" com o mouse, navegamos por pastas, etc. Já a outra forma de interagir com o SO (Sistema Operacional) é por meio de comandos de texto. No terminal nós fazemos isso. Nós digitamos textos para navegar em pastas, abrir e executar arquivos, configurar ferramentas, etc.
 
-**Nunca esqueça!** No terminal, você **sempre** está em algum lugar! O terminal é como um navegador de pastas. Você sempre estará em alguma pasta do seu computador.
+**Nunca se esqueça!** no terminal, você **sempre** está em algum lugar! O terminal é como um navegador de pastas. Você sempre estará em alguma pasta do seu computador. Por isso, certifique-se sempre de que está no lugar correto quando for executar algum comando.
 
 Como podemos instalar o terminal? Vamos ver agora. Siga as instruções do SO que você estiver utilizando.
 
@@ -39,21 +43,26 @@ Além do terminal, você também vai precisar do programa chamado `git`. Nós va
 
 #### Instalando o terminal e o Git no Windows
 
-No Windows, vamos utilizar o programa chamado Git Bash. Ou seja, considere que no Windows o Git Bash é o terminal e também o Git. Para instalar o Git Bash no Windows:
-1. Clique [aqui](https://git-scm.com/downloads)
-1. Depois clique em "Download for Windows", em seguida em "Click here to download".
-1. Quando terminar de baixar, clique no instalador (começa com "Git-...") e depois clicar em "Sim" e "Next" por **todos** os passos.
+O Windows possui um terminal padrão, mas ele não é do tipo Unix/Linux. Por conta disso, vamos utilizar o Git Bash como terminal no Windows. Por que usar um terminal do tipo Unix/Linux? Você vai entender melhor ao longo da sua carreira em desenvolvimento de software, mas a razão é porque [mais de 96% dos principais servidores do mundo são do tipo Linux](https://www.zdnet.com/home-and-office/networking/can-the-internet-exist-without-linux/). Por isso, quando e se no futuro você começar a trabalhar com servidores, é importante se acostumar com os comandos que realmente são utilizados nos servidores. Portanto, considere que, no Windows, o Git Bash é o nosso terminal. 
+
+1. Para instalar o Git Bash no Windows, clique [aqui](https://git-scm.com/downloads)
+1. Depois clique em "Download for Windows", em seguida em "Click here to download"
+1. Quando terminar de baixar, clique no instalador (começa com "Git-...") e depois clicar em "Sim" e "Next" por **todos** os passos
 1. Caso queira, na etapa de escolha do editor de texto padrão, selecione o VSCODE
+
+E o Git? Bom, o Git Bash já vem com o Git instalado. :)
 
 ### Instalando o programa Node
 
-Como falamos, o Node nós vamos utilizar no dia 3 e 4. Ele é o programa que vai executar o código que a gente vai aprender a escrever em JavaScript! Ele é um programa como qualquer outro, com a diferença de que ele consegue executar códigos que por consequência viram programas (ou software). No dia 3 e 4 você vai entender isso melhor. Por enquanto, o foco hoje é apenas de instalar o Node.
+O Node nós vamos utilizar diariamente enquanto estivermos programando. Ele é o programa que vai executar o código que a gente vai aprender a escrever em JavaScript! Ele é um programa como qualquer outro, com a diferença de que ele consegue executar códigos que por consequência viram programas (ou software). Chamamos este tipo de programa de 'interpretador' ou 'compilador'.
+
+Um compilador converte um programa inteiro em zeros e uns, o idioma que o computador entende. Já um interpretador é como se fosse uma tradução simultânea, ele vai convertendo partes do código em código binário (os zeros e uns) e executando-os sequencialmente. Todos os programas de computador do mundo passam por este processo de interpretação ou compilação. Programas e aplicativos que você utiliza diariamente foram criados assim.
 
 Para instalar o Node, independente do seu sistema operacional, basta clicar [aqui](https://nodejs.org/en/) e em seguida clicar no botão de download que tem a sigla "LTS". Em seguida, basta seguir as instruções de instalação e pronto! Se surgir alguma dúvida, joga lá no [nosso Discord](https://discord.com/invite/kHS84D2hA4) que respondemos prontamente.
 
 Finalmente! Vamos começar a praticar o terminal?
 
-## Passo 2: Praticando os comandos de terminal
+## Etapa 2: Praticando os comandos de terminal
 
 Agora sim. Agora é a hora de praticar o terminal. Vamos começar praticando verificando se as instalações que você fez deram certo!
 
@@ -66,15 +75,15 @@ Se as instalações tiverem funcionado corretamente, o terminal irá retornar as
 
 ### Dominando os comandos de terminal
 
-Antes de começar, relembre os comandos de terminal assistindo a gravação da aula do dia 1 ou pelos slides fornecidos. Deixe eles num lugar visível. Quando não lembrar de algum comando, assista a aula ou dê uma pesquisada no Google (ou vídeos no Youtube)! Ou então peça ajuda no [nosso Discord](https://discord.com/invite/kHS84D2hA4). Vamos lá!
+Antes de começar, se sentir necessidade, relembre os comandos de terminal assistindo a gravação da aula do dia 1 ou pelos slides fornecidos. Deixe eles num lugar visível. Quando não lembrar de algum comando, assista a aula ou dê uma pesquisada no Google (ou vídeos no Youtube)! Ou então peça ajuda no [nosso Discord](https://discord.com/invite/kHS84D2hA4). Vamos lá!
 1. Utilizando o terminal (no Windows, o próprio "git bash"), navegue para uma localização desejada (recomendamos o Desktop ou Área de Trabalho) e crie uma pasta chamada `dia-1-primeiros-passos`.
 1. Confira se a pasta realmente foi criada com um comando que você sabe qual (dica: começa com 'l')
 1. Navegue para a pasta e crie o diretório com o nome de `tarefa-dia-1` e navegue para dentro dele
 1. Dentro de `tarefa-dia-1`, crie um arquivo chamado `resumo-dia-1.md` no terminal (obs: nada de criar o arquivo com o mouse, viu? haha depois você verá que assim é bem mais rápido que pelo mouse).
-1. Pausa para dica 1: pressione a seta pra cima e você poderá pegar os comandos anteriores que você digitou.
-1. Pausa para dica 2: quando você começar digitar o nome de uma pasta em um comando (por exemplo, `cd nomedapasta`), pressione 'tab' que o nome da pasta é preenchido automaticamente!
+1. *Pausa para dica 1:* pressione a seta pra cima e você poderá pegar os comandos anteriores que você digitou.
+1. *Pausa para dica 2:* quando você começar digitar o nome de uma pasta em um comando (por exemplo, `cd nomedapasta`), pressione 'tab' que o nome da pasta é preenchido automaticamente!
 1. Continuando... agora abra o arquivo `resumo-dia-1.md` em um editor de texto (ou seja, no VSCODE).
-1. Em seguida, copie e cole o conteúdo abaixo nesse arquivo no editor de texto. Salve a alteração.
+1. Em seguida, copie e cole o conteúdo abaixo nesse arquivo no editor de texto. Salve a alteração no VSCODE.
 
 
 ```
@@ -120,21 +129,21 @@ Antes de começar, relembre os comandos de terminal assistindo a gravação da a
 - Cada verdinho no GitHub é uma prova de que você programou naquele dia. Por isso, ao utilizar o GitHub, você pode mostrar a todos que você está sempre colocando em prática o que está aprendendo e isso é muito importante para conquistar oportunidades na área.
 ```
 
-9. De volta ao terminal, exiba as primeiras 5 linhas do texto do conteúdo do arquivo `resumo-dia-1.md` (dica: o comando `head` exibe mais do que as primeiras 5 linhas do texto. Pesquise no Google "comando head" e veja como mostrar uma quantidade de linhas específica).
+9. De volta ao terminal, exiba as primeiras 5 linhas do texto do conteúdo do arquivo `resumo-dia-1.md` (dica: o comando `head` exibe mais do que as primeiras 5 linhas do texto. Pesquise no Google o termo `comando head` e veja como mostrar uma quantidade de linhas específica).
 
-1. Agora tente exibir todas as linhas que tem a palavra 'programação' no texto.
+1. Agora tente exibir todas as linhas que tem a palavra `programação` no texto.
 
 1. Desafio opcional: exiba todas as linhas que começam com '-'. Em seguida, exiba todas as linhas que **não** começam com '-'. Pesquise no google sobre o comando `grep` para conseguir resolver esse desafio.
 
 1. Execute o comando `pwd` no diretório onde se encontra o arquivo `resumo-dia-1.md`.
 
-Parabéns! Você já sabe manusear o terminal e executar comandos nele. O terminal é a base de toda pessoa que programa computadores. Nele você pode executar desde um pequeno código a até configurar um sistema super complexo na nuvem. Continue pesquisando por mais comandos no Google e "brinque" de criar e remover pastas (comando `rm`), copiar arquivos (comando `cp`), mover arquivos (comando `mv`), etc.
+Parabéns! Você já sabe manusear o terminal e executar comandos nele. O terminal é a base de toda pessoa que programa computadores. Nele, você pode executar desde um pequeno código a até configurar um sistema super complexo na nuvem. Continue pesquisando por mais comandos no Google (ex: [este artigo](https://towardsdatascience.com/17-terminal-commands-every-programmer-should-know-4fc4f4a5e20e) é bem legal) e exercite a criação e remoção de pastas (comando `rm`), copiar arquivos (comando `cp`), mover arquivos (comando `mv`), etc.
 
 Nos próximos dias, você vai aprender a utilizar o comando `git` e também a executar o código que você escrever em JavaScript com o comando `node`.
 
-## Passo 3: Criando sua conta no GitHub
+## Etapa 3: Criando sua conta no GitHub
 
-Para finalizar, vamos criar sua conta no GitHub! e mostrar como obter o token de acesso para que você consiga subir código no seu perfil do GitHub. Então vamos lá!
+Para finalizar, vamos criar sua conta no GitHub e mostrar como obter o token de acesso para que você consiga subir código no seu perfil do GitHub. Então vamos lá!
 
 ### Criando sua conta no Github
 
@@ -171,4 +180,6 @@ Agora vamos criar o seu 1º repositório remoto no GitHub. Você utilizará esse
 Para enviar a tarefa, basta executar o comando `history` no terminal, copiar o resultado mostrado e colar no formulário solicitado no [Discord do curso](https://discord.com/invite/kHS84D2hA4) no canal **#💪tarefa-dia-1**.
 
 O comando `history` lista todos os comandos que você digitou no terminal! Legal, né? :)
+
+Parabéns por ter chegado até aqui. Isto já é um ótimo sinal de que programação é para você! 👊😁
    
