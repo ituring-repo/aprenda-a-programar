@@ -137,6 +137,14 @@ Antes de começar, se sentir necessidade, relembre os comandos de terminal assis
 
 1. Execute o comando `pwd` no diretório onde se encontra o arquivo `resumo-dia-1.md`.
 
+Ao final desta etapa, você deverá ter os seguintes arquivos e pastas criados na sua área de trabalho ou em alguma outra pasta de sua escolha:
+```
+📦 Area de Trabalho ou Desktop (ou outra pasta de sua escolha)
+ ┗ 📂 dia-1-primeiros-passos
+   ┗ 📂 tarefa-dia-1
+     ┗ 📜 resumo-dia-1.md
+```
+
 Parabéns! Você já sabe manusear o terminal e executar comandos nele. O terminal é a base de toda pessoa que programa computadores. Nele, você pode executar desde um pequeno código a até configurar um sistema super complexo na nuvem. Continue pesquisando por mais comandos no Google (ex: [este artigo](https://towardsdatascience.com/17-terminal-commands-every-programmer-should-know-4fc4f4a5e20e) é bem legal) e exercite a criação e remoção de pastas (comando `rm`), copiar arquivos (comando `cp`), mover arquivos (comando `mv`), etc.
 
 Nos próximos dias, você vai aprender a utilizar o comando `git` e também a executar o código que você escrever em JavaScript com o comando `node`.
@@ -175,9 +183,18 @@ Agora vamos criar o seu 1º repositório remoto no GitHub. Você utilizará esse
 1. Mantenha a marcação "Public", caso contrário não vamos conseguir ver seu repositório.
 1. Em seguida, clique em "Create repository".
 
+Excelente! Você criou o seu 1º repositório no GitHub :star_struck: 
+
+No Dia 2, vamos aprender a colocar os nossos códigos nesse repositório. :punch: 
+
 ## Enviando a sua tarefa no Discord
 
-Para enviar a tarefa, basta executar o comando `history` no terminal, copiar o resultado mostrado e colar no formulário solicitado no [Discord do curso](https://discord.com/invite/kHS84D2hA4) no canal **#💪tarefa-dia-1**.
+Para enviar a tarefa você deve seguir os seguintes passos:
+1. Execute o comando `history` no terminal
+2. Copie o resultado mostrado pelo comando `history`
+3. Entre no link do formulário de envio de tarefas que se encontra no canal **#💪tarefa-dia-1** do [Discord do curso](https://discord.com/invite/kHS84D2hA4).
+4. Cole o resultado mostrado pelo comando `history` na primeira pergunta do formulário
+5. Responda as perguntas restantes do formulário e envie
 
 O comando `history` lista todos os comandos que você digitou no terminal! Legal, né? :)
 
