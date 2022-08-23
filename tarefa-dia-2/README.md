@@ -254,5 +254,5 @@ Ao final de todas as etapas, o seu repositório **remoto** e **local** deverá t
    ┣ 📜 pratica-1.js
    ┣ 📜 pratica-2.js
    ┣ 📜 pratica-3.js
-   ┗ 📜 pratica-4.js
+   ┗ 📜 pratica-4.js (caso tenha feito o desafio opcional)
 ```
