@@ -3,12 +3,9 @@
 Saudações, estudante da nossa imersão Aprenda a Programar do ITuring! Vamos então para a nossa 2ª tarefa do curso. Na 1ª tarefa, você exercitou os comandos de terminal e criou sua conta no GitHub. Agora você vai aprender a mexer com o GitHub e começar a escrever suas primeiras linhas de código! 🤩
 
 Na tarefa do dia 2, faremos o seguinte:
-- **Etapa 1:** Subindo a tarefa do dia 1 para o repositório remoto `aprenda-a-programar`
-- **Etapa 2:** Explorando declaração de variáveis e atribuição de valores
-- **Etapa 3:** Explorando comandos condicionais
-- **Etapa 4:** Resolvendo um problema com programação
-- **Etapa 5 (Opcional):** Resolvendo mais problemas com programação
-- **Etapa 6 (Opcional):** Criando um arquivo README.md resumindo para o que seu repositório serve
+- [**Etapa 1:**](#etapa-1-subindo-a-tarefa-do-dia-1-para-o-repositório-remoto-aprenda-a-programar) Subindo a tarefa do dia 1 para o repositório remoto `aprenda-a-programar`
+- [**Etapa 2:**](#etapa-2-explorando-declaração-de-variáveis-e-atribuição-de-valores) Explorando declaração de variáveis e atribuição de valores
+- [**Etapa 3:**](#etapa-3-explorando-e-entendendo-um-pouco-comandos-condicionais) Explorando comandos condicionais
 
 ## Etapa 1: Subindo a tarefa do dia 1 para o repositório remoto `aprenda-a-programar`
 
@@ -107,7 +104,7 @@ Seus problema acabaram (rs), agora vamos subir todas as alterações que você f
 
 Parabéns por ter chegado até aqui! É este o espírito, programar todos os dias e deixar o GitHub cada vez mais "verdinho". Agora é a hora. Vamos programar pra valer.
 
-## Etapa 2: Explorando declaração de variáveis e atribuição de valores
+## Etapa 2: Explorando e entendendo um pouco de declaração de variáveis e atribuição de valores
 
 Antes de começar a programar , vamos organizar a pasta onde você está desenvolvendo as tarefas:
 1. No terminal, vá para a pasta `tarefa-dia-2`
