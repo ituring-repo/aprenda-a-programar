@@ -10,10 +10,10 @@ Na tarefa do dia 1, teremos as seguintes etapas:
 
 ## Etapa 1: Instalando o ambiente de desenvolvimento e preparando a caixa de ferramentas
 
-Para preparar o seu ambiente de desenvolvimento, você vai precisar de instalar 3 coisas:
-- o editor de texto VSCODE
-- o programa Terminal e Git
-- o programa Node
+Para preparar o seu ambiente de desenvolvimento, você vai precisar de instalar 3 coisas na seguinde ordem:
+1. o editor de texto VSCODE
+1. o programa Terminal e Git
+1. o programa Node
 
 O VSCode é onde vamos de fato escrever códigos. Toda e qualquer pessoa que trabalha com desenvolvimento de software no mundo escreve códigos usando um editor de texto.
 
@@ -39,14 +39,24 @@ Como podemos instalar o terminal? Vamos ver agora. Siga as instruções do SO qu
 
 O MacOS e o Linux já possuem o terminal instalado. Para abrir o terminal no MacOS, [siga estes passos](https://pt.wikihow.com/Abrir-o-Terminal-no-Mac). No Linux, [siga estes passos](https://pt.wikihow.com/Abrir-uma-Janela-do-Terminal-no-Ubuntu).
 
-Além do terminal, você também vai precisar do programa chamado `git`. Nós vamos explicar melhor o que é o `git` no dia 2. Para instalar o `git`, tanto para MacOS, como para Linux, basta seguir as instruções [aqui](https://git-scm.com/downloads).
+Além do terminal, você também vai precisar do programa chamado `git`. Nós vamos explicar melhor o que é o `git` no dia 2.
+
+##### Instalando o Git no MacOS:
+1. No terminal, execute o comando `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
+1. Vai pedir uma senha, é a senha de acesso do seu MacOs
+1. Em seguida, execute `brew install git`
+
+##### Instalando o Git no Linux: 
+- No terminal, execute o comando referente à versão do seu Linux de acordo com este link: https://git-scm.com/download/linux
+
 
 #### Instalando o terminal e o Git no Windows
 
 O Windows possui um terminal padrão, mas ele não é do tipo Unix/Linux. Por conta disso, vamos utilizar o Git Bash como terminal no Windows. Por que usar um terminal do tipo Unix/Linux? Você vai entender melhor ao longo da sua carreira em desenvolvimento de software, mas a razão é porque [mais de 96% dos principais servidores do mundo são do tipo Linux](https://www.zdnet.com/home-and-office/networking/can-the-internet-exist-without-linux/). Por isso, quando e se no futuro você começar a trabalhar com servidores, é importante se acostumar com os comandos que realmente são utilizados nos servidores. Portanto, considere que, no Windows, o Git Bash é o nosso terminal. 
 
-1. Para instalar o Git Bash no Windows, clique [aqui](https://git-scm.com/downloads)
+1. Para instalar o Git Bash no Windows, entre [aqui](https://git-scm.com/downloads)
 1. Depois clique em "Download for Windows", em seguida em "Click here to download"
+1. Se você estiver com algum problema por conta da sua versão do Windows, fale com a gente no canal **#⚙│dúvidas-configurações**
 1. Quando terminar de baixar, clique no instalador (começa com "Git-...") e depois clicar em "Sim" e "Next" por **todos** os passos
 1. Caso queira, na etapa de escolha do editor de texto padrão, selecione o VSCODE
 
@@ -58,7 +68,21 @@ O Node nós vamos utilizar diariamente enquanto estivermos programando. Ele é o
 
 Um compilador converte um programa inteiro em zeros e uns, o idioma que o computador entende. Já um interpretador é como se fosse uma tradução simultânea, ele vai convertendo partes do código em código binário (os zeros e uns) e executando-os sequencialmente. Todos os programas de computador do mundo passam por este processo de interpretação ou compilação. Programas e aplicativos que você utiliza diariamente foram criados assim.
 
-Para instalar o Node, independente do seu sistema operacional, basta clicar [aqui](https://nodejs.org/en/) e em seguida clicar no botão de download que tem a sigla "LTS". Em seguida, basta seguir as instruções de instalação e pronto! Se surgir alguma dúvida, joga lá no [nosso Discord](https://discord.com/invite/kHS84D2hA4) que respondemos prontamente.
+#### Instalando o Node no Windows
+
+1. Clique [aqui](https://nodejs.org/en/) e em seguida clique no botão de download que tem a sigla "LTS"
+1. Seu Windows é uma versão antiga? Então instale o Node com [este instalador](https://nodejs.org/download/release/v13.14.0/node-v13.14.0-win-x64.zip)
+1. Em seguida, basta seguir as instruções de instalação e pronto! **Importante:** o Node é um programa que não tem um ícone para clicar e executar. Ele na verdade funciona dentro do terminal. Ou seja, no Windows, dentro do Git Bash!
+1. Qualquer dificuldade, fale com a gente no canal **#⚙│dúvidas-configurações**
+
+#### Instalando o Node no Linux
+1. Se estiver usando o Ubuntu, execute o comando `sudo apt install nodejs` no terminal
+1. Caso contrário, baixe o instalador [aqui](https://nodejs.org/en/download/).  **Importante:** o Node é um programa que não tem um ícone para clicar e executar. Ele na verdade funciona dentro do terminal. Ou seja, no Windows, dentro do Git Bash!
+1. Qualquer dificuldade, fale com a gente no canal **#⚙│dúvidas-configurações**
+
+#### Instalando o Node no MacOS
+1. Clique [aqui](https://nodejs.org/en/) e em seguida clique no botão de download que tem a sigla "LTS"
+1. Em seguida, basta seguir as instruções de instalação e pronto!  **Importante:** o Node é um programa que não tem um ícone para clicar e executar. Ele na verdade funciona dentro do terminal. Ou seja, no Windows, dentro do Git Bash!
 
 Finalmente! Vamos começar a praticar o terminal?
 
@@ -67,7 +91,7 @@ Finalmente! Vamos começar a praticar o terminal?
 Agora sim. Agora é a hora de praticar o terminal. Vamos começar praticando verificando se as instalações que você fez deram certo!
 
 ### Verificando se as instalações deram certo pelo terminal:
-Abra o terminal (no Windows, lembre-se que é o programa "Git bash") e execute os seguintes comandos:
+Abra o terminal (**no Windows**, lembre-se que é o programa "Git Bash") e execute os seguintes comandos:
 - Digite `git --version` e pressione enter
 - Digite `node --version` e pressione enter
 
