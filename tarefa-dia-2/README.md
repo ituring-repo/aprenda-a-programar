@@ -162,7 +162,7 @@ Pronto, agora sim, bora programar!
 
 Como fazer isso? Pesquise por `template strings` no Google e tente descobrir como utilizar *template strings* no JavaScript. Tentou, mas não foi? Sem problema algum, esta provavelmente é sua 1ª experiência com programação. Acredite, você já está fazendo MUITA coisa para apenas 2 dias. Por isso, mande suas dúvidas lá no nosso Discord.
 
-17. **(Desafio - Opcional) continuação:** Clique em salvar no seu editor de código e execute o código com `node pratica-1.js` no terminal.
+16. **(Desafio - Opcional) continuação:** Clique em salvar no seu editor de código e execute o código com `node pratica-1.js` no terminal.
 1. **(Desafio - Opcional) continuação:** Agora execute os comandos git para subir essa atualização no seu repositório remoto do GitHub.
 
 Este é o processo de programar. Comitar o código é parte integral do processo. Nesta prática, você comitou com bastante frequência e também testou o código em vários pequenos momentos. Pra quem está começando, isso ajuda MUITO a errar menos e acertar mais (mas errar muito também não é problema, pelo contrário).
