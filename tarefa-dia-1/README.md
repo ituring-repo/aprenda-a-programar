@@ -72,7 +72,7 @@ Um compilador converte um programa inteiro em zeros e uns, o idioma que o comput
 
 1. Clique [aqui](https://nodejs.org/en/) e em seguida clique no botão de download que tem a sigla "LTS"
 1. Seu Windows é uma versão antiga? Então instale o Node com [este instalador](https://nodejs.org/download/release/v13.14.0/node-v13.14.0-win-x64.zip)
-1. Em seguida, basta seguir as instruções de instalação e pronto! **Importante:** o Node é um programa que não tem um ícone para clicar e executar. Ele na verdade funciona dentro do terminal. Ou seja, no Windows, dentro do Git Bash!
+1. Em seguida, basta seguir as instruções de instalação e pronto! **Importante:** o Node é um programa você vai executar dentro do terminal. Ou seja, no Windows, dentro do Git Bash!
 1. Qualquer dificuldade, fale com a gente no canal **#⚙│dúvidas-configurações**
 
 #### Instalando o Node no Linux
@@ -82,7 +82,7 @@ Um compilador converte um programa inteiro em zeros e uns, o idioma que o comput
 
 #### Instalando o Node no MacOS
 1. Clique [aqui](https://nodejs.org/en/) e em seguida clique no botão de download que tem a sigla "LTS"
-1. Em seguida, basta seguir as instruções de instalação e pronto!  **Importante:** o Node é um programa que não tem um ícone para clicar e executar. Ele na verdade funciona dentro do terminal. Ou seja, no Windows, dentro do Git Bash!
+1. Em seguida, basta seguir as instruções de instalação e pronto!  **Importante:** o Node é um programa você vai executar dentro do terminal.
 
 Finalmente! Vamos começar a praticar o terminal?
 
