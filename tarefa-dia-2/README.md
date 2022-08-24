@@ -2,6 +2,8 @@
 
 Saudações, estudante da nossa imersão Aprenda a Programar do ITuring! Vamos então para a nossa 2ª tarefa do curso. Na 1ª tarefa, você exercitou os comandos de terminal e criou sua conta no GitHub. Agora você vai aprender a mexer com o GitHub e começar a escrever suas primeiras linhas de código! 🤩
 
+**Importante:** a Etapa 3 você só conseguirá fazer depois da aula do Dia 3 que vamos ensinar amanhã às 19h. Por enquanto, foque apenas em fazer a etapa 1 e a etapa 2.
+
 Na tarefa do dia 2, faremos o seguinte:
 - [**Etapa 1:**](#etapa-1-subindo-a-tarefa-do-dia-1-para-o-repositório-remoto-aprenda-a-programar) Subindo a tarefa do dia 1 para o repositório remoto `aprenda-a-programar`
 - [**Etapa 2:**](#etapa-2-explorando-declaração-de-variáveis-e-atribuição-de-valores) Explorando declaração de variáveis e atribuição de valores
