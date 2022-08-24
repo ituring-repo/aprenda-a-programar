@@ -146,7 +146,8 @@ Pronto, agora sim, bora programar!
 - sua idade
 - o lugar que você sonha um dia conhecer (pode ser um país, cidade ou um local mesmo)
 3. Dê um nome apropriado para cada variável. Ou seja, o nome da variável deve sugerir o valor que ela armazena (ex: se você vai armazenar sua idade, então o nome da variável ideal pode ser `idade`, não acha?). Isso é primordial em programação, pois é muito importante que a gente escreva um código que as outras pessoas consigam entender, não só o computador.
-1. Clique em salvar no seu editor de código e execute o código com `node pratica-1.js` no terminal (**importante:** o terminal deve estar na pasta onde está o arquivo `pratica-1.js` para conseguir executá-lo com o comando `node`).
+1. Clique em salvar no seu editor de código
+1. Agora vamos executar (ou rodar) o código que você escreveu com o programa Node! Para rodar o código, execute o comando `node pratica-1.js` no terminal (**importante:** o terminal deve estar na pasta onde está o arquivo `pratica-1.js` para conseguir executá-lo com o comando `node`)
 1. Não exibiu nada? Então funcionou! É porque você não utilizou o `console.log()` (ainda, vamos utilizar daqui a pouco).
 1. Agora execute os comandos git (`git status` -> `git add *` -> `git commit -m 'mensagem de commit'` -> `git log` -> `git push`) para subir essa atualização no seu repositório remoto do GitHub
 1. Agora atribua a cada uma das variáveis o valor de cada uma delas, ou seja, o seu email, sua profissão, sua idade e o lugar que você sonha um dia conhecer. Lembre-se que cada valor precisa ser do tipo mais apropriado. Ou seja, idade deve ser um `number` ou uma `string`? E nome, `string`, né? Assim em diante.
@@ -161,7 +162,7 @@ Pronto, agora sim, bora programar!
 
 Como fazer isso? Pesquise por `template strings` no Google e tente descobrir como utilizar *template strings* no JavaScript. Tentou, mas não foi? Sem problema algum, esta provavelmente é sua 1ª experiência com programação. Acredite, você já está fazendo MUITA coisa para apenas 2 dias. Por isso, mande suas dúvidas lá no nosso Discord.
 
-14. **(Desafio - Opcional) continuação:** Clique em salvar no seu editor de código e execute o código com `node pratica-1.js` no terminal.
+17. **(Desafio - Opcional) continuação:** Clique em salvar no seu editor de código e execute o código com `node pratica-1.js` no terminal.
 1. **(Desafio - Opcional) continuação:** Agora execute os comandos git para subir essa atualização no seu repositório remoto do GitHub.
 
 Este é o processo de programar. Comitar o código é parte integral do processo. Nesta prática, você comitou com bastante frequência e também testou o código em vários pequenos momentos. Pra quem está começando, isso ajuda MUITO a errar menos e acertar mais (mas errar muito também não é problema, pelo contrário).
