@@ -149,7 +149,7 @@ Pronto, agora sim, bora programar!
 1. Clique em salvar no seu editor de código
 1. Agora vamos executar (ou rodar) o código que você escreveu com o programa Node! Para rodar o código, execute o comando `node pratica-1.js` no terminal (**importante:** o terminal deve estar na pasta onde está o arquivo `pratica-1.js` para conseguir executá-lo com o comando `node`)
 1. Não exibiu nada? Então funcionou! É porque você não utilizou o `console.log()` (ainda, vamos utilizar daqui a pouco).
-1. Agora execute os comandos git (`git status` -> `git add *` -> `git commit -m 'mensagem de commit'` -> `git log` -> `git push`) para subir essa atualização no seu repositório remoto do GitHub
+1. Agora execute os comandos git (`git status` -> `git add .` -> `git commit -m 'mensagem de commit'` -> `git log` -> `git push`) para subir essa atualização no seu repositório remoto do GitHub
 1. Agora atribua a cada uma das variáveis o valor de cada uma delas, ou seja, o seu email, sua profissão, sua idade e o lugar que você sonha um dia conhecer. Lembre-se que cada valor precisa ser do tipo mais apropriado. Ou seja, idade deve ser um `number` ou uma `string`? E nome, `string`, né? Assim em diante.
 1. Clique em salvar no seu editor de código e execute o código com `node pratica-1.js` no terminal.
 1. Agora execute os comandos git para subir essa atualização no seu repositório remoto do GitHub.
