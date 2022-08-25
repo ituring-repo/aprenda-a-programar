@@ -245,7 +245,7 @@ Lembre-se de que "fuçar" e pesquisar é fundamental em programação. Esta é, 
 
  Para enviar a tarefa, basta copiar o link do seu repositório `bootcamp-full-stack-ituring` no GitHub e colar no formulário solicitado no [Discord do curso](https://discord.gg/FXage6t99U) no canal **#💪 │ tarefa-semana-2**.
 
-Ao final de todas as etapas, o seu repositório **remoto** e **local** deverá ter as seguintes pastas e arquivos:
+Ao final de todas as etapas, o seu repositório **remoto** e **local** deverão ter as seguintes pastas e arquivos:
 
 ```
 📦 aprenda-a-programar
