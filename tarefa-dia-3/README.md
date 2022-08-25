@@ -54,7 +54,7 @@ A sua organização após a finalização da tarefa do Dia 2 ficou algo semelhan
    ┗ 📜 pratica-4.js (caso tenha feito o desafio opcional)
 ```
 
-A tarefa do dia 3 também será entregue neste mesmo repositório. Vamos relembrar os principais comandos e criar a estrutura para a solução dos exercícios:
+A tarefa do Dia 3 também será entregue neste mesmo repositório. Vamos relembrar os principais comandos e criar a estrutura para a solução dos exercícios:
 1. No terminal, entre no seu repositório local `aprenda-a-programar` e crie a pasta `tarefa-dia-3`
 1. Agora vá para a pasta `tarefa-dia-3` e crie os seguintes arquivos: `pratica-1.js`, `pratica-2.js`, `pratica-3.js`, `pratica-4.js` e `pratica-5.js`. Ou, execute o comando `for i in {1..5}; do touch pratica-${i}.js; done` e veja a mágica acontecer (dê um `ls` para ver todos os arquivos criados)
 1. Agora execute os comandos git (`git pull` -> `git status` -> `git add .` -> `git commit -m 'mensagem de commit'` -> `git log` -> `git push`) para subir essa atualização no seu repositório remoto do GitHub
