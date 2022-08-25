@@ -239,7 +239,7 @@ Lembre-se de que "fuçar" e pesquisar é fundamental em programação. Esta é, 
 
 ## Enviando a sua tarefa no nosso Discord
 
- Para enviar a tarefa, basta copiar o link do seu repositório no GitHub e colar no formulário solicitado no [Discord do curso](https://discord.com/invite/kHS84D2hA4) no canal **#💪tarefa-dia-2**.
+ Para enviar a tarefa, basta copiar o link do seu repositório no GitHub e enviar na 1ª pergunta do formulário solicitado no [Discord do curso](https://discord.com/invite/kHS84D2hA4) no canal **#💪tarefa-dia-2**.
 
  **Não sabe qual é o link do seu repositório?** Entre em github.com e clique no seu perfil no canto superior direito da tela (onde tem um círculo com uma setinha para baixo). Em seguida, clique em "Your repositories". Lá você vai ver o nome do repositório que você criou. Clique nele e em seguida copie o link do navegador e cole o link no formulário.
 
