@@ -6,7 +6,7 @@ Na tarefa do dia 4, faremos o seguinte:
 - [**Etapa 1:**](#etapa-1-preparando-se-para-programar) Preparando-se para programar
 - [**Etapa 2:**](#etapa-2-dominando-loops-e-iteração) Dominando loops e iteração
 
-## Antes de começar, se aprofundando um pouco em ciência da computação
+## Antes de começar, aprofundando-se um pouco em ciência da computação
 
 Como já falamos repetidas vezes, o que você está aprendendo é a base de qualquer software no mundo. Para realmente resolver qualquer tipo de problema solucionável com programação, você precisa unicamente desses 3 elementos:
 - Variáveis
