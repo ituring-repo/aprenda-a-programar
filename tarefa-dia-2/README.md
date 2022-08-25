@@ -38,7 +38,7 @@ Esta pasta vazia que está no seu computador é o seu **repositório local**! Ou
 
 
 ### Etapa 1.2: Colocando a tarefa do Dia 1 no seu repositório local e fazendo o commit
-1. Agora na tarefa do dia 1, você criou uma pasta com o nome `dia-1-proximos-passos`, certo? Entre nessa pasta navegando pela interface mesmo (sem ser pelo terminal), copie a pasta `tarefa-dia-1` e cole dentro do **repositório local** `aprenda-a-programar` (ou o nome que você deu) que você acabou de clonar do seu repositório remoto.
+1. Na tarefa do dia 1, você criou uma pasta com o nome `dia-1-proximos-passos`, certo? Entre nessa pasta navegando pela interface mesmo (sem ser pelo terminal), copie a pasta `tarefa-dia-1` e cole dentro do **repositório local** `aprenda-a-programar` (ou o nome que você deu) que você acabou de clonar do seu repositório remoto.
 
 Agora a sua pasta do **repositório local** deve ficar assim:
 ```
