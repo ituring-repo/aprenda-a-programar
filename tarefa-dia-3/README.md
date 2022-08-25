@@ -39,7 +39,7 @@ Como vimos na última tarefa:
 3. Criou a solução para os exercícios
 4. Subiu as alterações para o repositório remoto
 
-A sua organização após a finalização da tarefa da 2ª semana ficou algo semelhante a:
+A sua organização após a finalização da tarefa do Dia 2 ficou algo semelhante a:
 
 ```
 📦 aprenda-a-programar
