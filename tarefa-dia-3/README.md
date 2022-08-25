@@ -163,7 +163,7 @@ Crie um código no arquivo `pratica-3.js` que começando com um número inteiro 
 
 Teste o seu código, veja se está funcionando, e depois faça o commit e suba ele no seu GitHub
 
-## Prática 4 (Opcional): É um número primo?
+### Prática 4 (Opcional): É um número primo?
 
 Números primos são aqueles que são divisíveis apenas pelo número 1 e por ele mesmo. Os números primos cumprem um papel essencial na área da criptografia, pois é [por meio deles que conseguimos hoje criptografar informações](https://pt.stackoverflow.com/questions/66513/como-n%C3%BAmeros-primos-s%C3%A3o-importantes-na-criptografia).
 
@@ -198,7 +198,7 @@ Teste o seu código, veja se está funcionando, e depois faça o commit e suba e
 
 **Dica se estiver com dificuldade:** se um número primo é divisível apenas por 1 ou por ele mesmo, então basta verificar se algum número entre `1` e `n` são divisíveis por `n`, sendo `n` o número que você quer saber se é primo. Como verificar se é divisível? Se o resto da divisão for zero, significa que ele é divisível. Ou seja, utilize uma estrutura de repetição que vai verificando cada um dos números entre `1` e `n`.
 
-## Prática 5 (Opcional): Calculando as vendas com e sem gorjeta
+### Prática 5 (Opcional): Calculando as vendas com e sem gorjeta
 
 No arquivo `pratica-5.js` da pasta `tarefa-dia-3`, copie e cole o código [desse link](./receitas.js).
 
