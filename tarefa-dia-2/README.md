@@ -250,8 +250,6 @@ Lembre-se de que "fuçar" e pesquisar é fundamental em programação. Esta é, 
 
  **Não sabe qual é o link do seu repositório?** Entre em github.com e clique no seu perfil no canto superior direito da tela (onde tem um círculo com uma setinha para baixo). Em seguida, clique em "Your repositories". Lá você vai ver o nome do repositório que você criou. Clique nele e em seguida copie o link do navegador e cole o link no formulário.
 
- Para enviar a tarefa, basta copiar o link do seu repositório `bootcamp-full-stack-ituring` no GitHub e colar no formulário solicitado no [Discord do curso](https://discord.gg/FXage6t99U) no canal **#💪 │ tarefa-semana-2**.
-
 Ao final de todas as etapas, o seu repositório **remoto** e **local** deverão ter as seguintes pastas e arquivos:
 
 ```
