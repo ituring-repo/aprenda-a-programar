@@ -1,0 +1,96 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Prompt', sans-serif;
+  background-color: #23292e;
+}
+
+.logo{
+  width: 200px;
+  margin: 20px;
+}
+
+main{
+  width: 786px;
+  margin: 0 auto;
+}
+
+.titulo{
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.titulo, .subtitulo{
+  color:#fff;
+  text-align: center;
+}
+
+#tarefa-nova{
+  background-color: #f1f1f1;
+  border: 3px solid #32cdac;
+  padding: 4px;
+  width: 80%;
+  height:40px;
+  outline: none;
+  font-size: 14px;
+  color: #0f1726;
+  border-radius: 4px;
+  margin-top: 30px;
+}
+
+.botao{
+  background-color: #32cdac;
+  padding: 10px;
+  border: none;
+  height:40px;
+  margin-left: 10px;
+  border-radius: 20px;
+  color: #0f1726;
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+.bt-azul{
+  background-color: #4f6791;
+  color: #fff;
+  width: 40%;
+  margin-top: 40px;
+}
+
+#lista{
+  list-style:none;
+}
+
+#lista > li{
+  background-color: #dbdbdb;
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  text-align: left;
+  font-size: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.caixa{
+  margin-top: 40px;
+  text-align: center;
+}
+
+.excluir{
+  background-color: #bdbcbc;
+  width: 16px;
+  height: 16px;
+  line-height: 0;
+  border-radius: 2px;
+  border:none;
+  cursor: pointer;
+}
