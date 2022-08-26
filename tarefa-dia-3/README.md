@@ -1,8 +1,8 @@
-# Tarefa - Dia 4: Aprendendo a programar (parte 2)
+# Tarefa - Dia 3: Aprendendo a programar (parte 2)
 
 Saudações novamente, estudante da nossa imersão Aprenda a Programar aqui do ITuring! **Esta é a última tarefa obrigatória** do nosso curso, falta pouco! 🙏😁
 
-Na tarefa do dia 4, faremos o seguinte:
+Na tarefa do dia 3, faremos o seguinte:
 - [**Etapa 1:**](#etapa-1-preparando-se-para-programar) Preparando-se para programar
 - [**Etapa 2:**](#etapa-2-dominando-loops-e-iteração) Dominando loops e iteração
 
@@ -231,7 +231,7 @@ Depois de entender essas duas estruturas de dados e experimentar elas no código
 
 ## Enviando a sua tarefa no nosso Discord
 
- Para enviar a tarefa, basta copiar o link do seu repositório no GitHub e colar no formulário solicitado no [Discord do curso](https://discord.com/invite/kHS84D2hA4) no canal **#💪tarefa-dia-4**.
+ Para enviar a tarefa, basta copiar o link do seu repositório no GitHub e colar no formulário solicitado no [Discord do curso](https://discord.com/invite/kHS84D2hA4) no canal **#💪tarefa-dia-3**.
 
  **Não sabe qual é o link do seu repositório?** Entre em github.com e clique no seu perfil no canto superior direito da tela (onde tem um círculo com uma setinha para baixo). Em seguida, clique em "Your repositories". Lá você vai ver o nome do repositório que você criou. Clique nele e em seguida copie o link do navegador e cole o link na 1ª pergunta do formulário.
 
