@@ -199,7 +199,7 @@ Perdão, Alan Turing. Vocês não conseguirão derrotar os nazistas. :'(
 ```
 Caso contrário (`else`), você deve exibir a seguinte informação:
 ```
-Maravilha! O código tem menos ou é igual a 6111 caracteres! Mãos à obra! Decifrem o código o quanto antes que vocês vão conseguir derrotá-los! :D
+Maravilha! O código tem menos ou é igual a 6110 caracteres! Mãos à obra! Decifrem o código o quanto antes que vocês vão conseguir derrotá-los! :D
 ```
 5. Por fim, faça o de sempre: teste o código, veja se ele está funcionando e depois suba ele no GitHub.
 
