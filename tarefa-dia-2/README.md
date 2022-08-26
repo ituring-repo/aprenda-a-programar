@@ -193,8 +193,15 @@ Sua missão será escrever um programa que ao receber esse código, informe para
 1. Pegue o código que Alan Turing nos enviou [aqui](alanturingcode.js) e armazene esse valor em uma variável, tudo no arquivo `pratica-3.js` (claro, usando o VSCODE). Sim, é um valor muuuito grande, mas não tem problema, pode armazenar na variável que vai funcionar.
 1. Agora pesquise no Google o termo `verificar tamanho da string em javascript` e descubra como saber o tamanho de uma string em JavaScript.
 1. Descobriu? Utilize esse método no seu código e armazene o valor resultante em uma nova variável (pense em um bom nome para essa nova variável).
-1. Agora verifique se esse valor é maior ou menor que 6110. Se (`if`) for maior, você deve exibir na tela `Perdão, Alan Turing. Vocês não conseguirão derrotar os nazistas. :'(`. Se for menor (ou igual?) (`else`), você deve exibir `Maravilha! O código tem menos ou é igual a 6111 caracteres! Mãos à obra! Decifrem o código o quanto antes que vocês vão conseguir derrotá-los! :D`.
-1. Por fim, faça o de sempre: teste o código, veja se ele está funcionando e depois suba ele no GitHub.
+1. Agora verifique se esse valor é maior ou menor que 6110. Ou seja, se (`if`) for maior, você deve exibir na tela a seguinte informação:
+```
+Perdão, Alan Turing. Vocês não conseguirão derrotar os nazistas. :'(
+```
+Caso contrário (`else`), você deve exibir a seguinte informação:
+```
+Maravilha! O código tem menos ou é igual a 6111 caracteres! Mãos à obra! Decifrem o código o quanto antes que vocês vão conseguir derrotá-los! :D
+```
+5. Por fim, faça o de sempre: teste o código, veja se ele está funcionando e depois suba ele no GitHub.
 
 Muito bom! Agora a Prática 4 abaixo é opcional. E dessa vez não tem passo-a-passo, você deve resolver por conta própria.
 
